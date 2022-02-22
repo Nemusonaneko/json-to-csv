@@ -1,0 +1,1289 @@
+name,symbol,url,chains,category,twitter,audit links
+Curve,CRV,https://curve.fi,"Ethereum,Avalanche,Fantom,Polygon,Arbitrum,xDai,Harmony,Optimism",Dexes,CurveFinance,https://curve.fi/audits
+MakerDAO,MKR,https://makerdao.com/,Ethereum,CDP,MakerDAO,https://security.makerdao.com/
+Convex Finance,CVX,https://www.convexfinance.com/,Ethereum,Yield,ConvexFinance,https://github.com/convex-eth/platform/blob/main/audit/Convex%20Platform%20Security%20Audit%20Report.pdf
+AAVE,AAVE,"https://aave.com
+","Ethereum,Avalanche,Polygon",Lending,AaveAave,https://aave.com/security
+Polygon Bridge & Staking,MATIC,https://polygon.technology/,Polygon,Chain,0xPolygon,
+WBTC,WBTC,https://wbtc.network/,Ethereum,Bridge,WrappedBTC,https://wbtc.network/dashboard/audit
+Lido,LDO,https://lido.fi/,"Ethereum,Terra,Solana",Liquid Staking,LidoFinance,https://github.com/lidofinance/audits
+Anchor,ANC,https://anchorprotocol.com/,Terra,Lending,anchor_protocol,https://docs.anchorprotocol.com/security#audits
+Uniswap,UNI,https://info.uniswap.org/,"Ethereum,Polygon,Arbitrum,Optimism",Dexes,Uniswap,"https://github.com/Uniswap/uniswap-v3-core/tree/main/audits,https://github.com/Uniswap/uniswap-v3-periphery/tree/main/audits,https://github.com/ConsenSys/Uniswap-audit-report-2018-12"
+Multichain,MULTI,https://multichain.org/,"Fantom,Avalanche,Ethereum,Binance,Moonriver,Arbitrum,OKExChain,Harmony,Polygon,xDai,Telos,Heco,Kucoin,Syscoin",Bridge,MultichainOrg,"https://github.com/anyswap/Anyswap-Audit/blob/master/TrailOfBits/Anyswap-CrossChain-Bridge-TrailofBits-Audit-Final%20Report.pdf,https://github.com/anyswap/Anyswap-Audit/blob/master/SlowMist/AnySwap%20CrossChain-Bridge%20Security%20Audit%20Report.pdf,https://github.com/anyswap/Anyswap-Audit/blob/master/SlowMist/Anyswap%20Smart%20Contract%20Security%20Audit.pdf,https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Travala-AnyswapV5ERC20-v1.0.pdf"
+Compound,COMP,https://compound.finance,Ethereum,Lending,compoundfinance,https://compound.finance/docs/security
+SushiSwap,SUSHI,https://sushi.com/,"Ethereum,Arbitrum,Polygon,Avalanche,Fantom,Harmony,Binance,Moonriver,Celo,xDai,Telos,Fuse,OKExChain,Palm,Heco",Dexes,SushiSwap,https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-SushiSwap-v1.0.pdf
+Instadapp,INST,https://instadapp.io/,Ethereum,Services,Instadapp,https://github.com/Instadapp/dsa-contracts/blob/master/audits/v1_PeckShield_Mar_2020.pdf
+PancakeSwap,CAKE,https://pancakeswap.finance/,Binance,Dexes,PancakeSwap,https://docs.pancakeswap.finance/#is-it-safe
+Yearn Finance,YFI,https://yearn.finance/,"Ethereum,Fantom",Yield Aggregator,iearnfinance,https://github.com/yearn/yearn-audits
+Balancer,BAL,https://balancer.finance/,"Ethereum,Polygon,Arbitrum",Dexes,BalancerLabs,https://docs.balancer.fi/core-concepts/security/audits
+Abracadabra,SPELL,https://abracadabra.money/,"Ethereum,Arbitrum,Fantom,Avalanche",CDP,MIM_Spell,https://www.certora.com/pubs/SushiBentoboxFeb2021.pdf
+ShibaSwap,BONE,https://shibaswap.com,Ethereum,Dexes,Shibtoken,https://www.certik.org/projects/shib
+Frax,FXS,https://frax.finance/,"Ethereum,Fantom",Algo-Stables,fraxfinance,https://www.certik.org/projects/fraxfinance
+JustLend,JST,https://justlend.just.network,Tron,Lending,DeFi_JUST,
+hBTC,hBTC,https://www.hbtc.finance/ ,Ethereum,Bridge,HBTC_official,https://www.htokens.finance/static/pdf/audit-report-en.pdf
+Venus,XVS,https://venus.io/,Binance,Lending,VenusProtocol,https://www.certik.org/projects/swipe
+Trader Joe,JOE,https://www.traderjoexyz.com,Avalanche,Dexes,traderjoe_xyz,https://docs.traderjoexyz.com/main/security-and-contracts/audits
+Liquity,LQTY,https://www.liquity.org/,Ethereum,CDP,LiquityProtocol,"https://github.com/trailofbits/publications/blob/master/reviews/Liquity.pdf,https://www.coinspect.com/liquity-audit/"
+Osmosis,OSMO,https://osmosis.zone/,Osmosis,Dexes,osmosiszone,
+VVS Finance,VVS,https://vvs.finance,Cronos,Dexes,VVS_finance,https://docs.vvs.finance/fundamentals/smart-contracts-and-security
+RenVM,REN,https://renproject.io/,"Ethereum,Fantom,Solana,Arbitrum,Polygon,Binance,Avalanche",Bridge,renprotocol,https://github.com/renproject/ren/wiki/Audits
+SpookySwap,BOO,https://spookyswap.finance/,Fantom,Dexes,SpookySwap,https://www.certik.org/projects/spookyswap
+Iron Bank,IB,https://ib.xyz,"Ethereum,Avalanche,Fantom",Lending,ibdotxyz,https://github.com/trailofbits/publications/blob/master/reviews/CREAMSummary.pdf
+JustCryptos,JST,https://just.network/token,Tron,Bridge,DeFi_JUST,
+Benqi,QI,https://benqi.fi,Avalanche,Lending,BenqiFinance,https://docs.benqi.fi/risks#audits
+JustStables,USDJ,https://juststable.tronscan.org/#/login,Tron,Algo-Stables,DeFi_JUST,https://just.tronscan.org/docs/audit-report-just_cn.pdf
+dYdX,DYDX,https://dydx.exchange/,Ethereum,Derivatives,dydxprotocol,https://docs.dydx.exchange/#independent-audits
+SUNSwap,SUN,https://sunswap.com/#/home,Tron,Dexes,DeFi_JUST,https://justswap.io/docs/audit-report_cn.pdf
+Bancor,BNT,https://app.bancor.network/,Ethereum,Dexes,Bancor,https://docs.bancor.network/ethereum-contracts/security
+Beefy Finance,BIFI,https://app.beefy.finance,"Fantom,Avalanche,Binance,Polygon,Cronos,Arbitrum,Metis,Fuse,Moonriver,Celo,Harmony,Aurora,Heco,Moonbeam",Yield Aggregator,beefyfinance,https://github.com/beefyfinance/beefy-audits
+Synapse,SYN,https://synapseprotocol.com,"Avalanche,Arbitrum,Fantom,Binance,Polygon,Ethereum,Aurora,Harmony,Optimism,Boba,Moonriver,Moonbeam",Dexes,SynapseProtocol,
+Synthetix,SNX,https://synthetix.io,"Ethereum,Optimism",Derivatives,synthetix_io,https://docs.synthetix.io/contracts/audits/
+Astroport,ASTRO,https://astroport.fi,Terra,Dexes,astroport_fi,https://github.com/astroport-fi/astro-audits
+Serum,SRM,https://projectserum.com/,Solana,Dexes,ProjectSerum,
+Alchemix,ALCX,https://alchemix.fi/,Ethereum,Synthetics,AlchemixFi,https://alchemix.fi/a208baf6ca7e0d6b0116461f05e27cd9.pdf
+Alpha Finance,ALPHA,https://alphafinance.io/,"Avalanche,Ethereum,Binance",Yield Aggregator,AlphaFinanceLab,https://blog.openzeppelin.com/alpha-homora-v2/
+Tokemak,TOKE,https://www.tokemak.xyz,Ethereum,Yield,TokenReactor,https://omniscia.io/tokemak-capital-management-protocol/
+Scream,SCREAM,https://scream.sh/,Fantom,Lending,Screamdotsh,
+KlaySwap,KSP,https://klayswap.com/dashboard,Klaytn,Dexes,KLAYswap,https://docs.klayswap.com/risk-and-security#greater-than-read-the-smart-contract-audit-reports-here
+Rari Capital,RGT,https://rari.capital/,Ethereum,Yield Aggregator,RariCapital,https://www.notion.so/Rari-Capital-Audit-Quantstamp-December-2020-24a1d1df94894d6881ee190686f47bc7
+Geist Finance,GEIST,https://geist.finance,Fantom,Lending,GeistFinance,"https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Geist-v1.0.pdf,https://solidity.finance/audits/GeistProtocol/"
+Badger DAO,BADGER,https://badger.finance/,"Ethereum,Arbitrum,Binance",Yield Aggregator,Yield Aggregator,https://badger.finance/wp-content/uploads/2021/01/HAECHI-AUDIT-BadgerDAO-Smart-Contract-Audit-Report-1.pdf
+Flexa,AMP,https://amptoken.org/,Ethereum,Payments,amptoken,"https://consensys.net/diligence/audits/2020/06/amp,https://github.com/trailofbits/publications/blob/master/reviews/amp.pdf"
+Maiar Exchange,MEX,https://maiar.exchange,Elrond,Dexes,MaiarExchange,
+Tranchess,CHESS,https://tranchess.com,Binance,Yield,tranchess,"https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Tranchess-v1.0.pdf,https://www.certik.org/projects/tranchess"
+Quickswap,QUICK,https://quickswap.exchange/,Polygon,Dexes,QuickswapDEX,https://contractsecurity.io/quick-audit-report/
+Platypus Finance,PTP,https://platypus.finance,Avalanche,Dexes,Platypusdefi,"https://omniscia.io/platypus-finance-core-implementation/,https://hacken.io/audits/#platypus_finance,https://omniscia.io/platypus-finance-governance-staking/"
+Terraswap,-,https://terraswap.io,Terra,Dexes,terraswap_io,
+xDAI Stake Bridge,STAKE,https://xdaichain.com/ ,Ethereum,Chain,xdaichain,
+Quarry,-,https://quarry.so,Solana,Yield,quarryprotocol,
+Alpaca Finance,ALPACA,https://www.alpacafinance.org/,"Binance,Fantom",Yield,AlpacaFinance,https://github.com/alpaca-finance/bsc-alpaca-contract/tree/main/audits
+Raydium,RAY,https://raydium.io,Solana,Dexes,RaydiumProtocol,
+MDEX,MDX,https://mdex.com/,"Binance,Heco",Dexes,Mdexswap,"https://mdex.com/slowmist_bsc.pdf,https://mdex.com/fairyproof_bsc.pdf,https://mdex.com/certik_bsc.pdf"
+Maple,MPL,https://www.maple.finance,Ethereum,Lending,maplefinance,https://github.com/maple-labs/maple-core#audit-reports
+Marinade Finance,MNDE,https://marinade.finance,Solana,Liquid Staking,MarinadeFinance,"https://marinade.finance/Neodyme.pdf,https://marinade.finance/AckeeBlockchain.pdf,https://marinade.finance/KudelskiSecurity.pdf"
+Katana DEX,-,https://katana.roninchain.com/#/swap,Ronin,Dexes,AxieInfinity,
+Solend,SLND,https://solend.fi,Solana,Lending,solendprotocol,https://github.com/solendprotocol/solana-program-library/tree/master/token-lending/audit
+Ellipsis Finance,EPS,https://ellipsis.finance/,Binance,Dexes,Ellipsisfi,https://github.com/ellipsis-finance/ellipsis-audits/blob/master/010421_Hacken_Ellipsis_SC_Audit_Report.pdf
+Defi Kingdoms,JEWEL,https://www.defikingdoms.com,Harmony,Dexes,DefiKingdoms,https://solidity.finance/audits/DefiKingdoms/
+Keep3r Network,KP3R,https://keep3r.network,Ethereum,Derivatives,thekeep3r,https://github.com/keep3r-network/keep3r.network/tree/master/audits
+DefiChain DEX,DFI,https://defichain.com/dex,DefiChain,Dexes,defichain,https://defichain.com/security/
+Mirror,MIR,https://mirror.finance/,"Terra,Ethereum",Derivatives,mirror_protocol,https://docsend.com/view/p4es2dgvwadamgqg
+Saber,SBR,https://saber.so,Solana,Dexes,Saber_HQ,
+G-UNI,GEL,https://www.gelato.network,"Ethereum,Optimism",Yield,gelatonetwork,"https://www.certik.org/projects/gelato,https://drive.google.com/file/d/1aTmVdENDTt7-Rbr9Nxx8DLqy8BE0ZLew/view?usp=sharing"
+Astar dApps Staking,ASTR,https://astar.network,Astar,Staking,AstarNetwork,https://certificate.quantstamp.com/view/a-star-network-staking
+Stacks Staking,STX,https://stacks.co,Stacks,Chain,Stacks,
+dForce,DF,https://dforce.network/,"Ethereum,Arbitrum,Binance,Optimism",Lending,dForcenet,https://github.com/dforce-network/documents/tree/master/audit_report/Lending
+Parallel Liquid Crowdloan,-,https://parallel.fi,Parallel,Lending,ParallelFi,
+Tornado Cash,TORN,https://tornado.cash/,Ethereum,Privacy,TornadoCash,https://tornado.cash/#faq
+Notional,NOTE,https://notional.finance/,Ethereum,Lending,NotionalFinance,https://blog.openzeppelin.com/notional-audit/
+Wonderland,TIME,https://www.wonderland.money,"Avalanche,Ethereum",Reserve Currency,Wonderland_fi,
+Armor,ARMOR,https://armor.fi/,Ethereum,Insurance,ArmorFi,
+BiSwap,BSW,https://biswap.org/,Binance,Dexes,Biswap_Dex,https://www.certik.org/projects/biswap
+Nexus Mutual,NXM,https://nexusmutual.io/,Ethereum,Insurance,NexusMutual,https://nexusmutual.gitbook.io/docs/helpful-resources/audits-and-security
+Tulip Protocol,TULIP,https://tulip.garden/,Solana,Yield,TulipProtocol,
+Vires Finance,VIRES,https://vires.finance,Waves,Lending,viresfinance,https://github.com/deemru/viresfinance-audit/releases/download/audit/viresfinance-security-audit.en.pdf
+TrueFi,TRU,https://truefi.io/,Ethereum,Lending,TrustToken,https://github.com/trusttoken/audits/tree/master/TrueFi
+Orca,ORCA,https://www.orca.so,Solana,Dexes,orca_so,
+Neutrino,NSBT,https://neutrino.at,Waves,Algo-Stables,neutrino_proto,https://audit.neutrino.at
+Sunny,SUNNY,https://sunny.ag,Solana,Yield,SunnyAggregator,
+CREAM Finance,CREAM,https://cream.finance/,"Binance,Ethereum,Polygon",Lending,CreamdotFinance,https://docs.cream.finance/audit-report
+StakeDAO,SDT,https://stakedao.org/,"Ethereum,Avalanche,Harmony,Polygon,Binance",Yield,StakeDAOHQ,
+MM Finance,MMF,https://mm.finance,Cronos,Dexes,MMFcrypto,https://www.certik.com/projects/mmfinance
+DefiSaver,-,https://defisaver.com/,Ethereum,Services,DefiSaver,https://consensys.net/diligence/audits/2021/03/defi-saver/
+Fei Protocol,FEI,https://fei.money/,Ethereum,Algo-Stables,feiprotocol,https://docs.fei.money/audit
+Atrix,-,https://www.atrix.finance,Solana,Dexes,AtrixProtocol,
+DODO,DODO,https://dodoex.io/,"Ethereum,Binance,Polygon,Aurora,Arbitrum",Dexes,BreederDodo,https://github.com/DODOEX/docs/blob/master/docs/audit.md
+Beethoven X,BEETS,https://www.beethovenx.io,Fantom,Dexes,beethoven_x,
+Allbridge,ABR,https://allbridge.io,"Ethereum,Solana,Terra,Binance,Celo,Avalanche,Polygon,Fantom,Heco,Aurora",Bridge,Allbridge_io,https://hacken.io/audits/#allbridge
+Kava,KAVA,https://www.kava.io/,Kava,Lending,kava_labs,https://www.certik.org/projects/kava
+Rocket Pool,RPL,https://rocketpool.net,Ethereum,Liquid Staking,Rocket_Pool,"https://rocketpool.net/files/sigma-prime-audit.pdf,https://consensys.net/diligence/audits/2021/04/rocketpool,https://github.com/trailofbits/publications/blob/master/reviews/RocketPool.pdf,https://immunefi.com/bounty/rocketpool"
+Yield Yak,YAK,https://yieldyak.com,Avalanche,Yield,yieldyak_,
+Stader,-,https://staderlabs.com,Terra,Liquid Staking,staderlabs,"https://staderlabs-docs.s3.amazonaws.com/audits/terra/Cryptonics_Audit_Report_Terra_V1.pdf,https://kp5hfcaxs2prkdoscwibtrbjjddvoov3huhezsxknanxfaucm76a.arweave.net/U_pyiBeWnxUN0hWQGcQpSMdXOrs9DkzK6mgbcoKCZ_w,https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Stader_Labs_LunaX_Contrracts_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf"
+Tectonic,TONIC,https://tectonic.finance/,Cronos,Lending,TectonicFi,
+Coinwind,COW,https://www.coinwind.pro,"Binance,Heco,Ethereum",Yield,coinwind_com,"https://www.fairyproof.com/doc/CoinwindV2-Audit-Report-071821.pdf,https://www.coinwind.pro/BEOSIN_en.pdf,https://www.coinwind.pro/flyhub_en.pdf"
+Pando,-,https://pando.im,Mixin,Dexes,pando_im,https://docs.pando.im/docs/security/audit-reports
+Trisolaris,TRI,https://www.trisolaris.io/#/swap,Aurora,Dexes,trisolarislabs,
+cBridge,-,https://cbridge.celer.network/#/transfer,"Astar,Aurora,Fantom,Binance,Moonbeam,Optimism,Polygon,Ethereum,Arbitrum,Avalanche,Harmony,Boba,Metis,Moonriver,OKExChain,Shiden,Oasis,Heco,xDai,Celo,Syscoin",Cross Chain,CelerNetwork,"https://github.com/celer-network/sgn-v2-contracts/blob/main/audit/REP-cBridge-v2-2021-11-17.pdf,https://github.com/celer-network/sgn-v2-contracts/blob/main/audit/PeckShield-Audit-Report-SGNv2-v1.0.pdf,https://github.com/celer-network/sgn-v2-contracts/blob/main/audit/SlowMist%20Audit%20Report%20-%20SGN.pdf"
+Loopring,LRC,https://loopring.org/#/,Ethereum,Dexes,loopringorg,https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/security_audit/LoopringV3_1_Report_EN.pdf
+YSL.IO,SYSL,https://ysl.io,Binance,Yield,ysl_io,https://docs.ysl.io/ysl-io/protocol/audits
+QiDao,QI,https://app.mai.finance,"Fantom,Polygon,Avalanche,Harmony,Moonriver,xDai",CDP,QiDaoProtocol,https://docs.mai.finance/risks/security#has-the-project-been-audited
+Olympus DAO,OHM,https://olympusdao.finance/,Ethereum,Reserve Currency,OlympusDAO,https://docs.olympusdao.finance/references/audits
+Mento,-,https://mento.finance,Celo,Dexes,CeloOrg,https://celo.org/audits
+Hundred Finance,HND,https://hundred.finance,"Arbitrum,Fantom,Harmony,Moonriver,Ethereum",Lending,HundredFinance,https://github.com/chainsulting/Smart-Contract-Security-Audits/blob/master/Percent%20Finance/02_Smart%20Contract%20Audit%20Percent%20Finance.pdf
+SUN.io,SUN,https://sun.io,Tron,Dexes,defi_sunio,https://sun.io/docs/slowmist_audit_report_en_sun.pdf
+Saddle Finance,SDL,https://saddle.finance/,"Ethereum,Fantom,Arbitrum,Optimism",Dexes,saddlefinance,https://github.com/saddle-finance/saddle-audits
+Francium,-,https://francium.io,Solana,Yield,Francium_Defi,https://www.certik.org/projects/francium
+GMX,GMX,https://gmx.io/,"Arbitrum,Avalanche",Dexes,GMX_IO,https://github.com/xvi10/gambit-contracts/tree/master/audits
+Angle,ANGLE,https://app.angle.money,Ethereum,Lending,AngleProtocol,https://github.com/AngleProtocol/angle-core/tree/main/audits
+SpiritSwap,SPIRIT,https://app.spiritswap.finance/#/,Fantom,Dexes,Spirit_Swap,https://github.com/Layer3Org/spiritswap-core/blob/main/SpiritSwap-Core%20Security%20Audit%20Report.pdf
+Harvest Finance,FARM,https://harvest.finance/,"Ethereum,Polygon,Binance",Yield Aggregator,harvest_finance,https://github.com/harvest-finance/harvest/tree/master/audits
+Sablier Finance,-,https://sablier.finance/,Ethereum,Payments,SablierHQ,https://certificate.quantstamp.com/full/sablier
+Set Protocol,-,https://www.tokensets.com/,Ethereum,Indexes,SetProtocol,https://www.tokensets.com/security
+Tarot,TAROT,https://www.tarot.to,Fantom,Yield,TarotFinance,
+B.Protocol,BPRO,https://www.bprotocol.org/,"Ethereum,Fantom,Arbitrum",Lending,bprotocoleth,https://app.bprotocol.org/risk
+Pylon Protocol,MINE,https://www.pylon.money,Terra,Yield,pylon_protocol,https://docs.pylon.money/security#audits
+DefiDollar DAO,DFD,https://dusd.finance/,Ethereum,Algo-Stables,defidollar,https://docs.dusd.finance/audits
+Pangolin,PNG,https://pangolin.exchange,Avalanche,Dexes,pangolindex,
+ProtoFi,PROTO,https://fantombank.protofi.app/,Fantom,Yield,ProtoFiProtocol,https://www.certik.com/projects/protofi
+Autofarm,AUTO,https://autofarm.network/,"Binance,Polygon,Cronos,Moonriver,Fantom,Avalanche,Heco,Boba,Celo,Velas,xDai,OKExChain,Harmony,Aurora",Yield Aggregator,autofarmnetwork,https://www.certik.org/projects/autofarm
+Origin Dollar,OUSD,https://www.ousd.com,Ethereum,Algo-Stables,OriginProtocol,https://docs.ousd.com/v/en/security-and-risks/audits
+ChainPort,-,https://app.chainport.io,Ethereum,Bridge,chain_port,https://www.certik.com/projects/chainport
+DefiChain Loans,DFI,https://defichain.com,DefiChain,Lending,defichain,https://defichain.com/security/
+Opyn,-,https://www.opyn.co/,"Ethereum,Avalanche",Options,opyn_,https://opyn.gitbook.io/opyn/get-started/security#audits
+Ribbon Finance,RBN,https://www.ribbon.finance/,"Ethereum,Avalanche,Aurora,Solana",Options,ribbonfinance,https://docs.ribbon.finance/developers/security#audits
+Kava Lend,HARD,https://kava.io/lend,Kava,Lending,hard_protocol,https://www.certik.org/projects/hard
+Index Coop,INDEX,https://www.indexcoop.com/,Ethereum,Indexes,indexcoop,
+StakeHound,-,https://stakehound.com/,Ethereum,Liquid Staking,stakedTokens,https://stakehound.com/wp-content/uploads/2020/12/StakeHound-Quantstamp-audit-report.pdf
+Reflexer,FLX,https://reflexer.finance/,Ethereum,Algo-Stables,reflexerfinance,https://reflexer.finance/about/
+REX Staking,-,https://eosauthority.com/rex,Telos,Lending,EOSauthority,
+Tranquil Finance,TRANQ,https://tranquil.finance/,Harmony,Lending,tranquil_fi,https://www.certik.com/projects/tranquil-finance
+ApeSwap,BANANA,https://apeswap.finance,"Binance,Polygon",Dexes,ape_swap,https://apeswap.gitbook.io/apeswap-finance/security/audits
+Element Finance,-,https://www.element.fi,Ethereum,Yield,element_fi,https://docs.element.fi/developers/bug-bounty-programs#b93e
+KEEP Network,KEEP,https://tbtc.network/,Ethereum,Cross Chain,,https://consensys.net/diligence/audits/2020/02/thesis-tbtc-and-keep/
+Thorchain,RUNE,https://thorchain.org/,Thorchain,Dexes,THORChain,https://www.certik.org/projects/thorchain
+Mango Markets,MNGO,https://mango.markets,Solana,Lending,mangomarkets,
+Chainge Finance,CHNG,https://www.chainge.finance,Fusion,Dexes,FinanceChainge,https://www.certik.org/projects/chaingefinance
+Liquid Driver,LQDR,https://www.liquiddriver.finance,Fantom,Yield,LiquidDriver,
+Almond,ALM,https://almond.so,Solana,Yield,almond_so,
+Waves Exchange,-,https://waves.exchange,Waves,Dexes,Waves_Exchange,
+Belt Finance,BELT,https://belt.fi/,"Binance,Heco",Yield,BELT_Finance,https://github.com/BeltFi/belt-contract/tree/main/audit
+Ankr,ANKR,https://www.ankr.com/,Ethereum,Liquid Staking,ankr,https://assets.ankr.com/files/stkr_smart_contract_auditing_report.pdf
+MochiFi,-,https://mochi.fi,Ethereum,Lending,MochiDeFi,https://docs.mochi.fi/audits
+pNetwork,PNT,https://p.network,"Ethereum,Binance,Ultra,Polygon,EOS,Telos,xDai",Staking,pNetworkDeFi,https://cryptonics.consulting/wp-content/uploads/2020/03/20200302_Audit_Report_pToken-2.pdf
+ThetaSwap,-,https://swap.thetatoken.org/swap,Theta,Dexes,Theta_Network,
+Welnance,WEL,https://welnance.com,Binance,Lending,WelnanceWorld,https://app.inspex.co/library/welnance#?scope=welnance-lending
+Reaper Farm,-,https://www.reaper.farm,Fantom,Yield,Reaper_Farm,https://solidity.finance/audits/ReaperFarm
+StakeWise,SWISE,https://stakewise.io/,Ethereum,Liquid Staking,stakewise_io,https://github.com/stakewise/contracts/tree/master/audits
+MM Optimizer,MMO,https://vaults.mm.finance/vault,Cronos,Yield,MMFcrypto,
+Lightning Network,-,https://lightning.network/,Bitcoin,Payments,,
+Larix,LARIX,https://projectlarix.com,Solana,Lending,ProjectLarix,https://docs.projectlarix.com/how-to-prove/audit
+Hop Protocol,-,https://hop.exchange,"Ethereum,Arbitrum,Optimism,Polygon,xDai",Dexes,HopProtocol,https://docs.hop.exchange/faq#are-hop-contracts-audited
+KeeperDAO,ROOK,https://keeperdao.com/,Ethereum,Dexes,Keeper_DAO,
+SundaeSwap,SUNDAE,https://www.sundaeswap.finance/,Cardano,Dexes,SundaeSwap,
+Market,-,https://www.market.xyz,"Fantom,Polygon",Lending,market_xyz,
+BXH,BXH,https://bxh.com,Heco,Yield,BXH_Blockchain,https://mos-wallet-public.oss-cn-hangzhou.aliyuncs.com/mos/BXH/bxh_audit.pdf
+Injective Protocol,INJ,https://injectiveprotocol.com/,Ethereum,Synthetics,InjectiveLabs,https://www.certik.org/projects/injectiveprotocol
+Apricot Finance,APT,https://apricot.one/#/,Solana,Lending,ApricotFinance,
+mStable,MTA,https://mstable.org/,"Ethereum,Polygon",CDP,mstable_,https://developers.mstable.org/security/security-audits
+Wrapped BNB,BNB,https://www.kava.io,Kava,Bridge,,
+Solo Top,-,https://solo.top,"Heco,Binance,Polygon,OKExChain",Yield,solo_top,https://www.certik.com/projects/solotop
+Bunny,BUNNY,https://pancakebunny.finance/,"Binance,Polygon",Yield,PancakeBunnyFin,https://github.com/PancakeBunny-finance/Bunny/blob/main/audits/%5BHAECHI%20AUDIT%5D%20PancakeBunny%20Smart%20Contract%20Audit%20Report%20ver%202.0.pdf
+NetSwap,NETT,https://netswap.io/#/home,Metis,Dexes,netswapofficial,https://docs.netswap.io/security/security-audits
+Enzyme Finance,MLN,https://enzyme.finance/,Ethereum,Indexes,enzymefinance,https://audit.enzyme.finance/
+Blizz Finance,BLZZ,https://blizz.finance,Avalanche,Lending,BlizzFinance,
+UMA Protocol,UMA,https://umaproject.org/,"Ethereum,Polygon",Synthetics,UMAprotocol,https://blog.openzeppelin.com/uma-audit-phase-2/
+Spectrum Protocol,SPEC,https://spec.finance,Terra,Yield,SpecProtocol,https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Spectrum_Protocol_CosmWasm_Smart_Contract_Security_Audit_Halborn_Report_v1_1.pdf
+BabySwap,BABY,https://home.babyswap.finance,Binance,Dexes,babyswap_bsc,https://www.certik.org/projects/babyswap
+Hector Finance,HEC,https://hectordao.com,Fantom,Dexes,HectorDAO_HEC,
+StackSwap,STSW,https://app.stackswap.org/swap,Stacks,Dexes,Stackswap_BTC,https://contact-stackswap.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FR2Qy2jO41SJwWbgnrvP4%2Fuploads%2F9tk4xdtFNupBe79yjKqY%2FTintash%20-%20Stackswap%20Contract%20audit.pdf?alt=media&token=b58b7f73-60a6-45e3-a8a5-b5e6f1bde584
+Moonwell,-,https://moonwell.fi,Moonriver,Lending,MoonwellDeFi,
+Loop Finance,LOOP,https://www.loop.markets,Terra,Dexes,loop_finance,https://docs.loop.markets/loop-finance/decentralized-exchange/audits
+Klima DAO,KLIMA,https://www.klimadao.finance,Polygon,Reserve Currency,KlimaDAO,
+WigoSwap,WIGO,https://wigoswap.io/,Fantom,Dexes,WigoSwap,https://certik.com/projects/wigoswap
+Ref Finance,REF,https://app.ref.finance,Near,Dexes,finance_ref,
+Ramp,RAMP,https://www.rampdefi.com,"Binance,Polygon,Ethereum",Lending,RampDefi,https://github.com/RAMP-DEFI/Security-Audits
+JPool,-,https://jpool.one,Solana,Liquid Staking,JPoolSolana,
+Defrost,MELT,https://www.defrost.finance,Avalanche,CDP,Defrost_Finance,https://github.com/DefrostFinance/Audit-Reports/blob/main/REP-Defrost-Finance-2021-11-10.pdf
+Friktion,-,https://friktion.fi,Solana,Options,friktion_labs,
+Channels Finance,CAN,https://channels.finance,"Heco,Binance,Arbitrum",Lending,ChannelsFinance,"https://attest.im/attestation/searchResult?qurey=4c533d00766c4b2a9761fad5da78b56f,https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MSgvIS2RfKE66pfkI81%2F-MUv-RfymyB6PvCRlnwz%2F-MUv1a71AjJ6p3Bgz5ui%2FChannels-Audit-Report-030321(1).pdf?alt=media&token=1af91ea6-d3d0-4ba3-8784-5dce6a907930"
+Aldrin,RIN,https://aldrin.com,Solana,Dexes,Aldrin_Exchange,https://dex.aldrin.com/877f900320eec44c13409814fe473fb7.pdf
+YokaiSwap,YOK,https://www.yokaiswap.com,Godwoken,Dexes,yokaiswap,
+ACryptoS,ACS,https://app.acryptos.com/,Binance,Yield Aggregator,acryptosdao,https://docs.acryptos.com/security-and-risks#audits
+Ooki,OOKI,https://hello.ooki.com,"Ethereum,Polygon,Binance",Lending,OokiTrade,https://docs.ooki.com/developers/audits
+Flamingo Finance,FLM,https://flamingo.finance/,NEO,Dexes,FlamingoFinance,https://github.com/flamingo-finance/flamingo-audit
+Lyra,LYRA,https://www.lyra.finance,"Optimism,Ethereum",Options,lyrafinance,https://github.com/lyra-finance/lyra-protocol/tree/master/audits/v1
+Goldfinch,GFI,https://goldfinch.finance,Ethereum,Lending,goldfinch_fi,
+88mph,MPH,https://88mph.app/,"Ethereum,Fantom,Polygon,Avalanche",Lending,88mphapp,https://docs.88mph.app/main-products/security-and-audits#is-88mph-audited
+Sovryn,SOV,https://www.sovryn.app/,RSK,Dexes,SovrynBTC,https://www.sovryn.app/library
+Flamincome,FLAG,https://flamincome.finance,Ethereum,Yield Aggregator,flamincome,https://github.com/flamincome/audits
+Unslashed,USF,https://unslashed.finance/,Ethereum,Insurance,UnslashedF,https://documentation.unslashed.finance/risks-and-security/audits
+ThetaCash,TBILL,https://tbill.io,Theta,Staking,OfficialTBILL,
+KnightSwap Finance,KNIGHT,https://knightswap.financial,"Binance,Fantom",Dexes,KnightEcosystem,https://github.com/TechRate/Smart-Contract-Audits/blob/main/November/KnightSwap.pdf
+Idle Finance,IDLE,https://idle.finance,"Ethereum,Polygon",Yield Aggregator,idlefinance,https://certificate.quantstamp.com/full/idle-finance
+Position Exchange,POSI,https://app.position.exchange/,Binance,Dexes,PositionEx,https://www.certik.org/projects/positionexchange
+KyberSwap,KNC,https://kyber.network/,"Ethereum,Polygon,Avalanche,Binance,Fantom,Cronos",Dexes,KyberNetwork,https://chainsecurity.com/security-audit/kyber-network-dynamic-market-maker-dmm/
+Spartacus,SPA,https://spartacus.finance/#/,Fantom,Reserve Currency,Spartacus_Fi,
+Centrifuge,CFG,https://tinlake.centrifuge.io,Ethereum,Yield,centrifuge,https://github.com/centrifuge/security/blob/master/audits/tinlake/LA-Tinlake-Audit-v0.3.0.pdf
+Benqi Staked Avax,SAVAX,https://staking.benqi.fi,Avalanche,Liquid Staking,BenqiFinance,https://docs.benqi.fi/resources/risks#audits
+PoolTogether,POOL,https://pooltogether.com/,"Ethereum,Polygon,Celo,Avalanche,Binance",Services,PoolTogether_,https://docs.pooltogether.com/security/audits-and-testing
+Agora,AGORA,https://agoradefi.io,Metis,Lending,AgoraDefi,https://agora-defi.notion.site/Contracts-Audits-a0a0058d0fd0450bab43ffe9d1db9f5e#b233bb933bc84084aa9ab56244764a98
+ArthSwap,-,https://app.arthswap.org/#/swap,Astar,Dexes,arthswap,
+Dopex,DPX,https://www.dopex.io,"Arbitrum,Avalanche,Binance,Ethereum",Options,dopex_io,"https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Dopex%20%5B21.06.2021%5D.pdf,https://solidity.finance/audits/Dopex/"
+Vesper,VSP,https://vesper.finance/,Ethereum,Yield,VesperFi,https://github.com/vesperfi/doc/tree/main/audit
+Superfluid,-,https://www.superfluid.finance/home,"xDai,Polygon",Payments,Superfluid_HQ,https://github.com/superfluid-finance/protocol-monorepo/blob/dev/packages/ethereum-contracts/audits/PeckShield-Audit-Report-Superfluid-v1.0.pdf
+StellaSwap,STELLA,https://stellaswap.com,Moonbeam,Dexes,StellaSwap,https://www.certik.com/projects/stellaswap
+Port Finance,PORT,https://port.finance,Solana,Lending,port_finance,
+Inverse Finance,INV,https://inverse.finance/,Ethereum,CDP,InverseFinance,
+Socean,SOCN,https://www.socean.fi,Solana,Staking,SoceanFinance,"http://solana.com/SolanaNeodymeStakePoolAudit.pdf,http://solana.com/SolanaQuantstampStakePoolAudit.pdf,http://solana.com/SolanaKudelskiStakePoolAudit.pdf"
+Yoshi Exchange,YOSHI,https://yoshi.exchange,"Fantom,Binance",Dexes,YoshiExchange,https://hacken.io/wp-content/uploads/2021/10/Yoshi_22102021SCAudit_Report_2.pdf
+Euler,-,https://www.euler.finance,Ethereum,Lending,eulerfinance,https://docs.euler.finance/security/smart-contract-audits
+FilDA,FILDA,https://filda.io/,"Heco,IoTeX,Polygon,Binance",Lending,FilDAFinance,"https://www.slowmist.com/en/security-audit-certificate.html?id=c6eb91a0f506aac62c334eb909a37f95e236987d3b3089c9ff902e6c39f16389,https://docs.filda.io/zhong-wen/dong-tai-geng-xin/2021112-geng-xin-update#filda-passed-the-security-audit-of-knownsec"
+O3 Swap,O3,https://o3swap.com/,"Heco,Polygon,Binance,OKExChain,Avalanche,Arbitrum,Ethereum",Dexes,O3_Labs,https://certik-public-assets.s3.amazonaws.com/CertiK+Security+Assessment+for+O3+Swap.pdf
+DeversiFi,DVF,https://www.deversifi.com/,Ethereum,Dexes,deversifi,https://www.deversifi.com/audit
+Elephant Money,ELEPHANT,https://elephant.money,Binance,Yield,ElephantStatus,"https://certik.org/projects/elephant,https://solidity.finance/audits/ElephantMoney"
+Metronome,MET,https://metronome.io/,Ethereum,Services,MET_Token,https://github.com/autonomoussoftware/metronome-audits
+ViperSwap,VIPER,https://viper.exchange,Harmony,Dexes,VenomDAO,https://solidity.finance/audits/ViperSwap/
+DefiBox,BOX,https://defibox.io,"EOS,Binance",Dexes,DefiboxOfficial,"https://support.defibox.cc/hc/en-us/articles/900006609803-PeckShield-Smart-Contract-Security-Audit-Report,https://support.defibox.cc/hc/en-us/articles/900005670046"
+YuzuSwap,YUZU,https://yuzu-swap.com,Oasis,Dexes,Yuzu_Swap,https://app.yuzu-swap.com/PeckShield-Audit-Report-YuzuSwap-v1.0_final.pdf
+Bent Finance,BENT,https://app.bentfinance.com,Ethereum,Yield,BENT_Finance,https://hacken.io/audits/#bent_finance
+Orion Money,ORION,https://orion.money,Ethereum,Yield,orion_money,https://orion.money/security-and-audits
+Wing Finance,WING,https://wing.finance,"Ontology,Ethereum,Binance,OKExChain",Lending,Wing_Finance,https://docs.wing.finance/#audits
+InvictusDAO,IN,https://app.invictusdao.fi/#/dashboard,Solana,Reserve Currency,InvictusDAO,
+Planet Finance,AQUA,https://planetfinance.io,Binance,Yield,planet_finance,https://github.com/HalbornSecurity/PublicReports/blob/master/Solidity%20Smart%20Contract%20Audits/Planet_Finance_Smart_Contract_Security_Audit_Halborn_v1_1.pdf
+Pala,PALA,https://pala.world,Klaytn,Dexes,attention_pala,
+ICHI Farm,ICHI,https://www.ichi.org,Ethereum,CDP,ichifarm,https://docs.ichi.farm/audits-and-risks/audits
+Balanced,BALN,https://balanced.network,Icon,Dexes,BalancedDAO,https://docs.balanced.network/security#smart-contract-audits
+Secret Network,SCRT,https://scrt.network/,Secret,Chain,SecretNetwork,
+Secret Bridge,-,https://scrt.network/,Secret,Bridge,SecretNetwork,
+Bao Finance,BAO,https://www.bao.finance/,"Ethereum,xDai",Yield,BaoFinance,
+pStake,PSTAKE,https://pstake.finance,Ethereum,Staking,pStakeFinance,"https://consensys.net/diligence/audits/private/61fqr5mouh4oq8/,https://github.com/persistenceOne/pStake-auditReports"
+BeamSwap,GLINT,https://beamswap.io,Moonbeam,Dexes,Beamswapio,https://docs.beamswap.io/contracts/audit
+Ondo Finance,-,https://ondo.finance,Ethereum,Yield,OndoFinance,https://www.certik.org/projects/ondofinance
+Defi Swap,CRO,https://crypto.com/defi/swap,Ethereum,Dexes,cryptocom,https://crypto.com/defi/swap-protocol-audit.pdf
+Stafi,FIS,https://www.stafi.io/,"Ethereum,Cosmos,Polkadot,Polygon,Binance,Solana,Kusama",Staking,StaFi_Protocol,https://github.com/stafiprotocol/stafi-bootstrap/tree/master/audits
+Dfyn Network,DFYN,https://www.dfyn.network/,"Polygon,Fantom,OKExChain",Dexes,_Dfyn,
+MANTRA DAO,OM,https://mantradao.com,"Ethereum,Binance,Polygon",Lending,MANTRADAO,https://www.slowmist.com/en/security-audit-certificate.html?id=1193264f67af7c2bb840306b82eff6218471cf4fbed79a7d48d6a01a93030e35
+Gro,GRO,https://www.gro.xyz,"Ethereum,Avalanche",Yield,groprotocol,https://docs.gro.xyz/gro-docs/how-it-works/security-and-audits/audits
+SecretSwap,SEFI,https://www.secretswap.io/,Secret,Dexes,SecretNetwork,
+Liqee,LQE,https://liqee.io,"Binance,Ethereum",Lending,liqeeio,
+Sifchain,EROWAN,https://sifchain.finance/,Sifchain,Dexes,sifchain,https://drive.google.com/drive/u/1/folders/1kkjdpNuRmTjaiIKA6CQISavCvj4Awpbc
+Parrot Protocol,PRT,https://parrot.fi,Solana,CDP,gopartyparrot,https://doc.parrot.fi/security/
+Pickle,PICKLE,https://pickle.finance/,"Ethereum,Arbitrum,Aurora,Polygon,Moonriver,Moonbeam,Metis,Optimism,OKExChain,Cronos,Harmony",Yield Aggregator,picklefinance,https://docs.pickle.finance/faqs/security
+SharedStake,SGT,https://www.sharedstake.org/,Ethereum,Liquid Staking,SharedStakeDAO,https://www.certik.org/projects/sharedstake
+Mimo Defi,MIMO,https://mimo.capital,"Ethereum,Polygon,Fantom",Lending,mimodefi,https://certificate.quantstamp.com/full/ten-x-titan
+MojitoSwap,MJT,https://www.mojitoswap.finance,Kucoin,Dexes,MojitoSwap,https://github.com/MojitoFinance/mojito-swap-farm/blob/main/doc/PeckShield-Audit-Report-Mojito-v1.0.pdf
+LendHub,LHB,https://www.lendhub.org,Heco,Lending,LendHubDefi,"https://www.lendhub.org/report/LendHubAuditReport.pdf,https://www.lendhub.org/report/LendHubreport-020821.pdf,https://www.lendhub.org/report/LendHubAuditReport2.pdf"
+Beta Finance,BETA,https://betafinance.org,"Ethereum,Avalanche",Lending,beta_finance,https://betafinance.gitbook.io/betafinance/security-and-audits
+Donkey,DON,https://www.donkey.fund,Klaytn,Lending,,https://docs.donkey.fund/about/audit
+CronaSwap,CRONA,https://app.cronaswap.org,Cronos,Dexes,cronaswap,
+Mercurial Finance,MER,https://mercurial.finance/,Solana,Dexes,MercurialFi,
+InsurAce,INSUR,https://www.insurace.io,"Polygon,Avalanche,Binance,Ethereum",Insurance,InsurAce_io,"https://files.insurace.io/public/security/InsurAce-DeFi%20Smart%20Contract%20Security%20Audit%20Report.pdf,https://files.insurace.io/public/security/InsurAcePeckShieldAuditReport.pdf"
+Robo-Vault,-,https://www.robo-vault.com,Fantom,Yield,robo_vault,https://docs.robo-vault.com/robovault/security
+Moola Market,MOO,https://moola.market,Celo,Lending,Moola_Market,https://drive.google.com/file/d/1qd1h0dujnp4Xxrl68ZTIMzbt4aXzMWY7/view
+Cashio,-,https://cashio.app,Solana,Payments,cashioapp,
+Arrow,-,https://arrowprotocol.com,Solana,Yield,ArrowProtocol,
+FlareFarm,SFIN,https://xff.flr.finance,Songbird,Launchpad,FlareFinance,
+MoneyOnChain,MOC,https://moneyonchain.com/,RSK,Staking,moneyonchainok,https://github.com/money-on-chain/Audits
+Nexus Protocol,PSI,https://nexusprotocol.app,Terra,Yield,NexusProtocol,https://github.com/HalbornSecurity/PublicReports/blob/master/CosmWasm%20Smart%20Contract%20Audits/Nexus_Protocol_CosmWasm_Smart_Contract_Security_Audit_Report_Halborn%20v1.1.pdf
+Yield Protocol,-,https://yield.is,Ethereum,Lending,yield,
+Youves,YOU,https://app.youves.com,Tezos,Synthetics,youves_com,https://github.com/youves-com/youves-smart-contract/blob/main/audits/09212021-LeastAuthority-TezosFoundationSyntheticAssetPlatformSmartContractsFinalAuditReport.pdf
+Perpetual Protocol,PERP,https://perp.exchange/,"xDai,Optimism,Ethereum",Derivatives,perpprotocol,https://docs.perp.fi/library/audit-report
+NeoBurger,-,https://neoburger.io/home,NEO,Liquid Staking,NeoBurger_io,
+SocialSwap,SST,https://www.socialswap.io,Tron,Dexes,Socialswapdefi,"https://turingpoint.de/en/security-assessments/certificate/smart_contract_audit_socialswapio-d27a325bc6/,https://www.certik.com/projects/socialswap"
+Beanstalk,BEAN,https://bean.money,Ethereum,Algo-Stables,BeanstalkFarms,
+Zenlink,ZLK,https://zenlink.pro,"Moonriver,Moonbeam",Dexes,ZenlinkPro,
+Across,-,https://across.to,Ethereum,Cross Chain,AcrossProtocol,https://blog.openzeppelin.com/uma-audit-l2-bridges/
+RealT,-,https://realt.co,xDai,Services,RealTPlatform,
+Revest Finance,RVST,https://revest.finance,"Ethereum,Fantom,Polygon,Avalanche",Minting,RevestFinance,https://solidity.finance/audits/Revest
+Tetu,TETU,http://tetu.io,"Fantom,Polygon",Yield,tetu_io,https://docs.tetu.io/tetu-io/security/audits
+imToken,imBTC,https://token.im/,Ethereum,Services,imTokenOfficial,"https://cure53.de/pentest-report_imtoken.pdf,https://drive.google.com/file/d/1o7byxnZbhl8PkWpYHnWtxDgUp_cpPO73/view"
+BakerySwap,BAKE,https://www.bakeryswap.org,Binance,Dexes,bakery_swap,https://www.certik.org/projects/bakeryswap
+WePiggy,WPC,https://www.wepiggy.com/,"Ethereum,Binance,OKExChain,Arbitrum,Optimism,Oasis,Polygon,Harmony,Heco,Moonriver",Lending,wepiggydotcom,https://github.com/WePiggy/wepiggy-contracts/tree/master/docs/audits
+Mimo,-,https://mimo.exchange,IoTeX,Dexes,mimoprotocol,
+TON Swap,-,https://tonswap.io/swap,Everscale,Dexes,Broxus,https://github.com/broxus/ton-dex/tree/master/audits
+Hubble,HBB,https://hubbleprotocol.io,Solana,Lending,HubbleProtocol,https://hubble-markets.gitbook.io/hubble-protocol-official-docs/documentation/security-audits
+BoringDAO,BORING,https://www.boringdao.com/,Ethereum,Cross Chain,TheBoringDAO,https://github.com/BoringDAO/boringDAO-contract/blob/master/peckshield-audit-report-boringdao-v1.0rc.pdf
+Kava Swap,SWP,https://www.kava.io/swap,Kava,Dexes,Kava_Swap,
+YieldWolf,-,https://yieldwolf.finance,"Fantom,Avalanche,Binance,Cronos,Polygon,Harmony,Celo",Yield,YieldWolf,https://paladinsec.co/projects/yieldwolf
+Mobius Money,MOBI,https://www.mobius.money,Celo,Dexes,MobiusMoney,
+Sherlock,-,https://sherlock.xyz,Ethereum,Insurance,Sherlock_DeFi,"https://certificate.quantstamp.com/full/sherlock,https://code423n4.com/reports/2021-07-sherlock/"
+Ola Finance,-,https://ola.finance,"Binance,Fantom",Lending,ola_finance,https://olafinance.gitbook.io/ola-finance/audit-reports/solidified-and-zk-labs
+Meta Pool,META,https://metapool.app,Near,Liquid Staking,meta_pool,
+Strike,STRK,https://strike.org,Ethereum,Lending,StrikeFinance,https://www.certik.org/projects/strikefinance
+Tethys Finance,TETHYS,https://tethys.finance,Metis,Dexes,tethysfinance,https://defisecurity.io/dist/files/tethys_finance_security_audit_report_1.0.pdf
+StellarX,-,https://www.stellarx.com,Stellar,Dexes,stellarxhq,
+OolongSwap,OLO,https://oolongswap.com/#/,Boba,Dexes,oolongswap,https://github.com/OolongSwap/oolongswap-audits
+Definix,FINIX,https://definix.com/en,"Klaytn,Binance",Dexes,DefinixOfficial,https://www.certik.com/projects/sixnetwork
+Algofi,-,https://www.algofi.org/,Algorand,Lending,algofiorg,https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Algofi.pdf
+Yieldly,YLDY,https://yieldly.finance/,Algorand,Yield,yieldlyfinance,https://github.com/HalbornSecurity/PublicReports/blob/master/Algorand%20Smart%20Contract%20Audit/Yieldly_Finance_Lottery_Algorand_Smart_Contract_Halborn_v1_1.pdf
+Reserve,RSR,https://reserve.org,Ethereum,Algo-Stables,reserveprotocol,https://certificate.certik.io/reports/reserve.org.pdf
+Moonpot,POTS,https://play.moonpot.com,Binance,Yield,moonpotdotcom,
+Atlantis Loans,ATL,https://atlantis.loans,Binance,Lending,atlantis_loans,
+Mars Ecosystem,XMS,https://marsecosystem.com/home,Binance,CDP,MarsEcosystem,https://www.certik.org/projects/marsecosystem
+Omm,OMM,https://omm.finance,Icon,Lending,ommfinance,https://docs.omm.finance/security
+BiFi,BiFi,https://bifi.finance/,"Ethereum,Binance,Klaytn,Bitcoin,Avalanche",Lending,BIFROSTio,"https://github.com/bifrost-platform/BiFi-X/blob/main/docs/bifrost_bifix_audit.pdf,https://github.com/bifrost-platform/BIFI/blob/master/docs/ENG/(ENG)_BiFi_BIFROST_Extension_Theori.pdf,https://github.com/bifrost-platform/BIFI/blob/master/docs/ENG/(ENG)_BiFi_Lending_Sooho_EN_Public.pdf,https://github.com/bifrost-platform/BIFI/blob/master/docs/ENG/(ENG)_BiFi_Token_Hexlant_EN.pdf,https://github.com/bifrost-platform/BIFI/blob/master/docs/ENG/(ENG)_BiFrost_BTC_Extension_CertiK.pdf"
+Solidly,-,https://solidly.exchange/,Fantom,Dexes,solidlyexchange,https://github.com/andrecronje/solidly/blob/master/audits/e456a816-3802-4384-894c-825a4177245a.pdf
+Impermax Finance,IMX,https://impermax.finance/,"Polygon,Avalanche,Arbitrum,Ethereum,Moonriver",Yield,ImpermaxFinance,https://github.com/Impermax-Finance/impermax-x-uniswapv2-core/tree/main/audit
+Composable Finance,LAYR,https://www.composable.finance,"Ethereum,Arbitrum,Polygon",Cross Chain,ComposableFin,
+DFX Finance,DFX,https://app.dfx.finance,"Ethereum,Polygon",Dexes,DFXFinance,https://github.com/dfx-finance/protocol/blob/main/audits/2021-05-03-Trail_of_Bits.pdf
+Katana,-,https://app.katana.so,Solana,Options,Katana_HQ,
+Polkaswap,PSWAP,https://polkaswap.io,Sora,Dexes,polkaswap,
+OnX Finance,ONX,https://onx.finance,Ethereum,Yield Aggregator,OnXFinance,https://onx-finance.gitbook.io/docs/audits-and-contracts
+Animal Farm,PIGS,https://theanimal.farm,Binance,Yield,DRIPcommunity,
+Redacted Cartel,BTRFLY,https://www.redactedcartel.xyz,Ethereum,Services,redactedcartel,
+LeagueDAO,LEAG,https://leaguedao.com/,Ethereum,Reserve Currency,LeagueDAO,
+WanSwap Dex,WASP,https://wanswap.finance/,Wanchain,Dexes,wanswap,https://docs.wanswap.finance/audit
+Connext,-,https://connext.network/,"Optimism,Ethereum,Binance,Arbitrum,xDai,Polygon,Moonriver,Avalanche,Fantom,Moonbeam,Fuse",Cross Chain,ConnextNetwork,https://drive.google.com/file/d/1l42vxzHwLXrKU10v3FutG2DWthU43vB8/view
+Ubeswap,UBE,https://ubeswap.org,Celo,Dexes,ubeswap,https://docs.ubeswap.org/code-and-contracts/security#audits
+Drachma,DRACHMA,https://app.drachmadefi.io/#/,Metis,Dexes,drachmadefi,https://drachma-defi.notion.site/Contracts-Audits-1ef408de14fa4c619feddb99abbddffc
+DerivaDEX,DDX,http://derivadex.com,Ethereum,Derivatives,DDX_official,https://certificate.quantstamp.com/full/deriva-dex
+Snowball,SNOB,https://snowball.network,Avalanche,Yield,throwsnowballs,
+Bella Protocol,BEL,https://fs.bella.fi/,Ethereum,Yield,BellaProtocool,https://github.com/peckshield/publications/blob/master/audit_reports/bella_audit_report_2020_48_en_1_0.pdf
+IDEX,IDEX,https://idex.io/,"Polygon,Ethereum",Dexes,idexio,"https://github.com/idexio/idex-contracts/tree/master/audits,https://callisto.network/idex-security-audit/"
+1inch Network,1INCH,https://1inch.io,Ethereum,Dexes,1inchNetwork,https://help.1inch.io/en/articles/4585088-how-secure-is-1inch
+yAxis,YAXIS,https://www.yaxis.io,Ethereum,Yield Aggregator,yaxis_project,https://github.com/yaxis-project/metavault/tree/main/audits
+Synthetify,SNY,https://www.synthetify.io,Solana,Dexes,synthetify,https://github.com/Synthetify/synthetify-landing/blob/master/public/blog/audit/audit.pdf
+Wrapped,-,https://wrapped.com,"Ethereum,Celo",Cross Chain,WrappedFi,
+Clipper,-,https://clipper.exchange,"Ethereum,Polygon",Dexes,Clipper_DEX,https://docs.clipper.exchange/audits
+Mars Poolin,MARS,https://mars.poolin.fi,Ethereum,Yield,MarsProject2020,
+Morpheus Swap,PILLS,https://morpheusswap.finance,Fantom,Yield,MorpheusSwap,https://morpheusswap.gitbook.io/morpheus-swap/security/audit
+ThetaNuts,-,https://thetanuts.finance,"Ethereum,Avalanche,Fantom,Polygon,Binance,Aurora,Boba",Options,ThetaNuts,https://drive.google.com/file/d/1NJAZ3L8VGezmEw2xpyCl073oplm9O0in/view?usp=sharing
+WagyuSwap,WAG,https://www.wagyuswap.app,Velas,Dexes,WagyuSwap_app,https://solidity.finance/audits/Wagyu
+Zookeeper,ZOO,https://www.zookeeper.finance/,Wanchain,Yield,ZooFarming,https://github.com/ZooFarming/Audit
+Tinyman,-,https://tinyman.org,Algorand,Dexes,tinymanorg,https://docs.tinyman.org/contracts
+ForTube,FOR,https://for.tube/,"Binance,IoTeX,Ethereum,Polygon,OKExChain",Lending,ForTubeFi,https://for.tube/security
+APY Finance,APY,https://apy.finance,Ethereum,Yield,apyfinance,https://github.com/apy-finance/apy-audits
+ioTube,-,https://iotube.org,"Ethereum,Binance,Polygon,IoTeX",Bridge,iotube_org,
+Creditum,CREDIT,https://revenant.finance/creditum,Fantom,Algo-Stables,RevenantFinance,https://github.com/revenant-finance/creditum-audit
+Grim Finance,GRIM,https://www.grim.finance,Fantom,Yield,financegrim,https://solidity.finance/audits/GrimVault/
+CherrySwap,CHE,https://www.cherryswap.net,OKExChain,Dexes,CherryswapNet,"https://docs.cherryswap.net/noneag,https://docs.cherryswap.net/knownsec,https://docs.cherryswap.net/certik"
+Kronos DAO,KRNO,https://kronosdao.finance,Klaytn,Reserve Currency,KronosDAO_fi,
+Rabbit Finance,RABBIT,https://www.rabbitfinance.io/earn,Binance,Lending,FinanceRabbit,https://rabbitfinance.gitbook.io/homepage/resources/audit-report
+Babylon Finance,BABL,https://www.babylon.finance,Ethereum,Indexes,BabylonFinance,
+OCP Finance,OCP,https://ocp.finance,Binance,Yield,omnic_pro,https://github.com/Quillhash/Audit_Reports/blob/master/OmniOracle%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf
+Orion Protocol,ORN,https://www.orionprotocol.io,"Ethereum,Binance",Dexes,orion_protocol,https://www.certik.org/projects/orionprotocol
+Tezos Liquidity Baking,-,https://liquidity-baking.com,Tezos,Yield,tezos,
+Deri Protocol,DERI,https://deri.finance,"Binance,Polygon",Derivatives,DeriProtocol,https://docs.deri.finance/code-audits
+Solarbeam,SOLAR,https://solarbeam.io/exchange/swap,Moonriver,Dexes,Solarbeamio,
+Pacoca,PACOCA,https://pacoca.io,Binance,Yield,pacoca_io,"https://www.certik.com/projects/pacoca,https://app.inspex.co/library/pacoca#?scope=pacoca-sweetvaults"
+Penguin Finance,PEFI,https://penguinfinance.org/,Avalanche,Yield,penguin_defi,https://www.certik.com/projects/penguinfinance
+Houses of Rome,ROME,https://romedao.finance,Moonriver,Reserve Currency,romedaofinance,
+WannaSwap,WANNA,https://wannaswap.finance,Aurora,Dexes,wannaswapamm,https://www.certik.com/projects/wannaswap
+Pendle,PENDLE,https://pendle.finance/,"Ethereum,Avalanche",Yield,pendle_fi,https://docs.pendle.finance/faq#has-pendle-been-audited
+Jet,JET,https://www.jetprotocol.io,Solana,Lending,JetProtocol,
+AutoShark,JAWS,https://autoshark.finance,Binance,Dexes,AutoSharkFin,https://docs.autoshark.finance/audit
+Gnosis,GNO,https://gnosis.io/,Ethereum,Dexes,gnosisPM,https://docs.gnosis.io/safe/docs/intro_audits/
+JSwap,JF,https://app.jswap.finance/#/swap,OKExChain,Dexes,Jswap_Finance,"https://www.slowmist.com/en/security-audit-certificate.html?id=928799684ad96ef4ed4b0c0fb12a5fae085456f874b19dc4300195b32a5a1431,https://www.slowmist.com/en/security-audit-certificate.html?id=e18f32468d1c52dc0682fbf1c1137df933fabb09526b124c84cd391fce7149bb"
+Swop,SWOP,https://swop.fi,Waves,Dexes,Swopfi,"https://backend.swop.fi/files/en/deemru.pdf,https://backend.swop.fi/files/en/fairyproof.pdf"
+Vexchange,VEX,https://vexchange.io/swap,VeChain,Dexes,VexchangeIO,
+ApolloDAO,APOLLO,https://apollo.farm,Terra,Yield,ApolloDAO,https://github.com/oak-security/audit-reports/blob/master/Apollo/2021-08-18%20Audit%20Report%20-%20Apollo.pdf
+Umbria Network,UMBR,https://umbria.network,"Polygon,Ethereum",Cross Chain,NetworkUmbria,
+ValueDefi,VALUE,https://valuedefi.io/,"Binance,Ethereum",Yield,value_defi,https://valuedefi.io/audit
+ZilSwap,ZWAP,https://zilswap.io/swap,Zilliqa,Dexes,ZilSwap,
+Unagii,-,https://www.unagii.com/,Ethereum,Yield,unagiidotcom,https://docs.unagii.com/unagii-vaults/vaults-audits
+Aavegotchi,GHST,https://aavegotchi.com,"Polygon,Ethereum",Gaming,aavegotchi,https://www.certik.org/projects/aavegotchi
+Premia,PREMIA,https://premia.finance/,"Arbitrum,Ethereum,Binance",Options,PremiaFinance,"https://solidity.finance/audits/Premia,https://hacken.io/audits/#solidstate,https://hacken.io/audits/#premia_finance"
+Swapr,SWPR,https://swapr.eth.link/#/swap,"xDai,Arbitrum,Ethereum",Dexes,SwaprEth,https://gateway.ipfs.io/ipfs/QmNspbn2dQgQMQ9uXkMc7Fjf12RUVVJTzB27ywGeLUXXdn
+Popsicle Finance,ICE,https://popsicle.finance,"Fantom,Binance,Ethereum",Yield,PopsicleFinance,https://docs.popsicle.finance/reports/our-audits
+Ouchi Finance,OUCHI,https://ouchi.finance,Ethereum,Dexes,OuchiFinance,
+MoonFarm,MFO,https://moonfarm.finance,"Binance,Ethereum,Polygon",Yield,MoonfarmFinance,https://moonfarmfinance.medium.com/moonfarm-finances-security-auditted-and-certified-by-the-arcadia-group-810c4f24c051
+dHEDGE,DHT,https://www.dhedge.org/,"Ethereum,Polygon,Optimism",Indexes,dHedgeOrg,https://iosiro.com/audits/dhedge-platform-smart-contract-audit
+FODL Finance,FODL,https://fodl.finance/,Ethereum,Options,FODLfi,https://certificate.quantstamp.com/full/fodl
+SashimiSwap,SASHIMI,https://sashimi.cool/home/swap,"Ethereum,Heco,Binance",Dexes,SASHIMISASHIMI5,https://sashimi.cool/files/sashimi_audit_report.pdf
+MCDEX,MCB,https://mcdex.io/,"Binance,Arbitrum,Ethereum",Dexes,MonteCarloDEX,https://blog.openzeppelin.com/?s=MCDEX
+0xDAO,OXD,https://www.oxdao.fi,Fantom,Staking,0xDAO_fi,
+Kaidex,-,https://kaidex.io,Kardia,Dexes,KardiaChain,
+Elk,ELK,https://elk.finance,"Avalanche,Polygon,Binance,Fantom,Cronos,xDai,Fuse,Elastos,IoTeX,Harmony,Heco,Kucoin,Hoo,Moonriver,OKExChain",Dexes,elk_finance,https://blog.hashex.org/elk-finance-smart-contracts-audit-report-a18deaa5890b
+Shell Protocol,-,https://www.shellprotocol.io/,Ethereum,Dexes,ShellProtocol,https://consensys.net/diligence/audits/2020/06/shell-protocol/
+BabelFish,-,https://babelfish.money,RSK,Yield,babelfishmoney,
+PowerPool,CVP,https://powerpool.finance/,"Ethereum,Binance",Indexes,powerpoolcvp,https://docs.powerpool.finance/security/security-audits
+Axial,AXIAL,https://www.axial.exchange,Avalanche,Dexes,AxialDeFi,
+Guard(Helmet),GUARD,https://www.guard.insure,"Binance,Polygon",Insurance,Helmet_insure,https://www.certik.org/projects/helmet
+Tracer,TCR,https://tracer.finance,Arbitrum,Derivatives,TracerDAO,https://tracer.finance/radar/sigma-prime-audit-response
+ZipSwap,ZIP,https://zipswap.fi/#/,"Optimism,Arbitrum",Dexes,Zip_swap,
+Voltage,-,https://app.voltage.finance/,Fuse,Dexes,voltfinance,
+Sperax USD,USDs,http://sperax.io,Arbitrum,Algo-Stables,SperaxUSD,
+Fantohm,FHM,https://www.fantohm.com,"Fantom,Moonriver,Ethereum,Binance,Boba",Reserve Currency,FantohmDAO,
+Convergence,CONV,https://conv.finance,"Moonbeam,Ethereum",Dexes,ConvergenceFin,https://www.certik.org/projects/convergencefinance
+LumenSwap,LSP,https://lumenswap.io,Stellar,Dexes,lumenswap,
+BarnBridge,BOND,https://barnbridge.com/,"Ethereum,Polygon,Avalanche",Yield Aggregator,Barn_Bridge,https://docs.barnbridge.com/beginners-guide-to-smart-yield#is-it-secure-to-invest-in-smart-yield
+AstroSwap,ASTRO,https://www.astroswap.app,Velas,Dexes,AstroSwapApp,
+Maximizer,MAXI,https://maxi.xyz,Avalanche,Reserve Currency,maximizer_xyz,
+Shiden dApp Staking,SDN,https://shiden.astar.network,Shiden,Staking,ShidenNetwork,https://certificate.quantstamp.com/view/a-star-network-staking
+TEN Finance,TENFI,https://ten.finance,Binance,Yield,TENfinance,https://certik.org/projects/tenfinance
+Karura Swap,-,https://acala.network/karura,Karura,Dexes,KaruraNetwork,
+TopShelf,LIQR,https://topshelf.finance/,"Fantom,Binance,Avalanche",CDP,TopShelfFinance,
+JetFuel Finance,FUEL,https://jetfuel.finance,Binance,Yield,Jetfuelfinance,https://jetfuel.finance/audits
+BenSwap,EBEN,https://benswap.cash,"smartBCH,Binance",Dexes,BenTokenFinanc1,https://www.certik.org/projects/bentoken-finance
+Flux Protocol,FLUX,https://flux.01.finance,"OKExChain,Binance,Conflux,Heco,Polygon,Ethereum,Arbitrum",Lending,zero1_flux,https://certik.org/projects/flux
+Karura Dollar (kUSD),-,https://acala.network/karura,Karura,Lending,KaruraNetwork,
+DarkCrypto,DARK,https://www.darkcrypto.finance,Cronos,Algo-Stables,DarkCryptoFi,
+1Beam,1BEAM,https://1beam.io,Moonbeam,Dexes,1beamio,https://docs.1beam.io/audit
+Linear Finance,LINA,https://linear.finance,Binance,Derivatives,LinearFinance,https://www.certik.com/projects/linearfinance
+Gamma,GAMMA,https://www.gammastrategies.org,Ethereum,Yield,GammaStrategies,https://github.com/VisorFinance/hypervisor/blob/master/REP-Hypervisor-2021-07-07.pdf
+UXD,UXP,https://uxd.fi/,Solana,Algo-Stables,UXDProtocol,https://bramah.systems/audits/UXD_Audit_Bramah.pdf
+Kine Finance,KINE,https://kine.finance/,"Binance,Ethereum,Avalanche,Polygon",Yield,KineProtocol,https://docs.kine.io/audit/peckshield
+Moremoney,MORE,https://moremoney.finance,Avalanche,Lending,Moremoneyfi,https://github.com/MoreMoney-Finance/audits/blob/main/PeckShield-Audit-Report-Moremoney-1.0.pdf
+Unicly,UNIC,https://app.unic.ly,Ethereum,Dexes,uniclyNFT,https://github.com/uniclyNFT/Resources/blob/main/Unicly%20Security%20Audit.pdf
+Drift,-,https://www.drift.trade,Solana,Dexes,DriftProtocol,
+Crodex,CRX,https://swap.crodex.app,Cronos,Dexes,crodexapp,https://hacken.io/audits/#crodex
+Honeyswap,HNY,https://honeyswap.org/,"xDai,Polygon",Dexes,Honeyswap,
+ZoomSwap,ZM,https://zoomswap.io,IoTeX,Yield,zoomswap_io,https://rugdoc.io/project/zoomswap
+Bodh Finance,-,https://bodh.finance,Boba,Lending,BodhFinance,
+Kolibri,kDAO,https://kolibri.finance,Tezos,CDP,HoverEng,https://kolibri.finance/docs/security-report.pdf
+XDAO,-,https://www.xdao.app/,"Binance,Polygon,Ethereum,Heco,Fantom,Avalanche",Services,xdaoapp,"https://github.com/xdao-app/xdao-contracts/blob/master/audits/pessimistic/pessimistic.pdf,https://github.com/xdao-app/xdao-contracts/blob/master/audits/hacken/hacken.pdf"
+Annex,ANN,https://www.annex.finance,"Binance,Cronos",Lending,AnnexFinance,https://www.certik.org/projects/annex
+Paint Swap,BRUSH,https://paintswap.finance,Fantom,Dexes,paint_swap,https://solidity.finance/audits/PaintSwap/
+Karura Liquid-Staking,-,https://acala.network/karura,Karura,Liquid Staking,KaruraNetwork,
+Mimas Finance,MIMAS,https://mimas.finance/,Cronos,Lending,mimas_fi,
+Ethernity Chain,ERN,https://ethernity.io/,Ethereum,Yield,EthernityChain,
+Starterra,STT,https://app.starterra.io,Terra,Launchpad,StarTerra_io,https://github.com/auditmos/audits/blob/main/2021_08_21_STARTERRA.pdf
+Lizard,LIZ,https://lizard.exchange,Oasis,Dexes,LizardExchange,
+Solarflare,FLARE,https://solarflare.io,Moonbeam,Dexes,Solarbeamio,https://www.certik.com/projects/solarbeam
+Knit Finance,KFT,https://knit.finance,"Ethereum,Binance,Polygon,Fantom",Cross Chain,KnitFinance,https://www.certik.com/projects/knitfinance
+FarmersOnly,FOX,https://app.farmersonly.fi,Harmony,Yield,FarmersOnlyFi,https://rugdoc.io/project/farmersonly/
+MistSwap,MIST,https://mistswap.fi,smartBCH,Dexes,mistswapdex,https://docs.mistswap.fi/MistSwap-0xguard-audit.pdf
+FlareX,EXFI,https://xfx.flr.finance,Songbird,Dexes,FlareFinance,
+CrossChain Bridge,BRIDGE,https://crosschainbridge.org,"Ethereum,Binance,Polygon",Cross Chain,CCB_Bridge,https://drive.google.com/file/d/1cei3INZN9lAjclgOYdnSj1_rULqMLXlC/view
+Fractional Art,-,https://fractional.art,Ethereum,Indexes,fractional_art,
+Snowbank,SB,https://www.snowbank.finance,Avalanche,Reserve Currency,SnowbankDAO,
+Charm Finance,-,https://charm.fi/,Ethereum,Yield,CharmFinance,https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Charm%20Finance%20%5B27.10.2020%5D.pdf
+NFTb,NFTB,https://nftb.io,Binance,Yield,nftbmarket,"https://nftb.io/[NFTB_07072021]_SC_Audit_Report.pdf,https://blog.nftb.io/audit-results-hacken-cd636cb01feb"
+BurgerSwap,BURGER,https://burgerswap.org/trade/swap,Binance,Dexes,burger_swap,
+Euphoria,WAGMI,https://euphoria.money,Harmony,Reserve Currency,EuphoriaMoney,
+NFTX,NFTX,https://nftx.org,Ethereum,Minting,NFTX_,https://github.com/NFTX-project/audit-level-k/blob/master/NFTX-final.pdf
+DinoSwap,DINO,https://dinoswap.exchange,Polygon,Dexes,DinoSwapHQ,https://www.certik.org/projects/dinoswap
+HurricaneSwap,HCT,https://hurricaneswap.com,Avalanche,Dexes,HurricaneSwap,https://github.com/HurricaneSam/AuditReport/blob/main/PeckShield-Audit-Report-HurricanSwapV2-v1.0rc.pdf
+Energiswap,NRG,https://www.energiswap.org,Energi,Dexes,Energicrypto,
+APWine,APW,https://apwine.fi,"Ethereum,Polygon",Yield Aggregator,APWineFinance,
+Cryptex,CTX,https://cryptex.finance/,"Ethereum,Optimism",Indexes,CryptexFinance,"https://cryptex.finance/Cryptex_-_Final_Report.pdf,https://certificate.quantstamp.com/full/cryptex"
+Bridge Mutual,BMI,https://www.bridgemutual.io,Ethereum,Insurance,Bridge_Mutual,"https://uploads-ssl.webflow.com/5fac3e348dbd5932a7578690/60da267d76850e5acfe4e4c2_Bridge%20Mutual%20SC%20Audit_%20ZOkyo.pdf,https://consensys.net/diligence/audits/2021/03/bridge-mutual/"
+GalaxyGoogle DAO,GG,https://app.galaxygoggle.money,"Binance,Avalanche",Reserve Currency,GalaxyGoggleDAO,
+Aztec,-,https://aztec.network,Ethereum,Privacy,aztecnetwork,
+CashCow Finance,CCF,https://cashcow.finance,Binance,Lending,FinanceCow,https://docs.cashcow.finance/cash-cow-audit-report
+CHFRY Finance,CHEESE,https://chfry.finance,Ethereum,Lending,ChfryFinance,https://raw.githubusercontent.com/chfry-finance/chfry-protocol/master/docs/PeckShield-Audit-Report-Chfry-v1.0.pdf
+Jarvis Network,JRT,https://jarvis.network/,"Polygon,Ethereum,xDai,Binance",Derivatives,Jarvis_Network,https://drive.google.com/file/d/1PdmrOKDV-udArVJu6E2rKUsCm9gPuN2p/view
+Bumper Finance,BUMP,https://www.bumper.fi,Ethereum,Insurance,bumperfinance,https://drive.google.com/file/d/1MT75ifDmiV2hAg9nVJfVjzWr4UrNO6fU/view
+Hakka Finance,HAKKA,https://hakka.finance/,Ethereum,Derivatives,hakkafinance,https://github.com/hakkafinance/audit-reports
+Unit Protocol,DUCK,https://app.unit.xyz/,Ethereum,CDP,unitprotocol,https://github.com/unitprotocol/protocol_docs
+Nerve Network,NVT,https://nerve.network/,Nuls,Dexes,nerve_network,https://www.slowmist.com/en/security-audit-certificate.html?id=097a33b2e955a56af85e80b13ff82a3ad20fea83871769b5c58d024b5e774164
+BTCST,BTCST,https://www.btcst.finance,Binance,Yield,BTCST2020,
+CompliFi,COMFI,https://compli.fi/,"Polygon,Ethereum",Dexes,CompliFi_Pro,"https://github.com/CompliFi/complifi-protocol/tree/master/audits,https://github.com/CompliFi/complifi-amm/tree/master/audits"
+Nemesis DAO,NMS,https://nemesisdao.finance/,Binance,Reserve Currency,nemesis_dao,
+CreamSwap,CREAM,https://app.cream.finance/swap,Ethereum,Dexes,CreamdotFinance,https://github.com/CreamFi/compound-protocol/blob/master/audits/trailofbits-CREAMSummary.pdf
+Alkemi,ALK,https://alkemi.network,Ethereum,Lending,AlkemiNetwork,https://github.com/AlkemiNetwork/alkemi-earn-security-audit
+Erasure,NMR,https://erasure.world/,Ethereum,Derivatives,numerai,https://github.com/erasureprotocol/NMR/tree/master/audits
+Opium,OPIUM,https://www.opium.network/,"Ethereum,Polygon,Binance,Arbitrum",Options,Opium_Network,https://blog.smartdec.net/opium-smart-contracts-security-analysis-4c1857cfd93f
+Adamant Finance,ADDY,https://adamant.finance,"Polygon,Arbitrum,Cronos",Yield,AdamantVault,https://adamantfinance.gitbook.io/adamant-finance/audits
+Arkadiko,DIKO,https://arkadiko.finance,Stacks,Algo-Stables,ArkadikoFinance,
+Perlin,PERL,https://perlinx.finance/,Ethereum,Dexes,PerlinNetwork,https://perlinx.finance/risks
+Hegic,HEGIC,https://www.hegic.co/ ,Ethereum,Options,HegicOptions,https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Hegic-v1.0.pdf
+Alchemist,MIST,https://www.alchemist.wtf,Ethereum,Yield,_alchemistcoin,
+Tempus Finance,TEMP,http://tempus.finance,Ethereum,Yield,TempusFinance,https://www.coinspect.com/tempus-audit
+JetSwap,WINGS,https://jetswap.finance,"Binance,Fantom,Polygon",Dexes,Jetfuelfinance,"https://jetswap.finance/audit-by-etherauthority.pdf,https://jetswap.finance/audit-by-hash0x.pdf"
+KillSwitch,KSW,https://killswitch.finance,"Binance,Kucoin,Aurora",Yield Aggregator,KillSwitch_Defi,https://service.inspex.co/@inspex/rJctqA80u
+INK Protocol,-,https://inkprotocol.finance,Terra,Yield,InkProtocol__,https://github.com/oak-security/audit-reports/blob/master/Ink%20Protocol/2021-09-15%20Ink%20-%20Audit%20Report.pdf
+Geyser,GYSR,https://www.gysr.io,"Ethereum,Polygon",Yield,gysr_io,"https://resources.gysr.io/gysr_v1_audit_pessimistic.pdf,https://resources.gysr.io/gysr_v2_audit_certik.pdf"
+Back Finance,BACK,https://back.finance,Heco,Yield,Back_Finance,https://back-finance.gitbook.io/back-finance/v/en/xie-yi/risk#contract-risk
+Demeter,DUSD,https://demeter.xyz/#/,Heco,Lending,Demetervip,https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Demeter-v1.0.pdf
+Summit Defi,SUMMIT,https://summitdefi.com,Fantom,Yield,Summitdefi,https://docs.summitdefi.com/code/audit-completed
+Jones DAO,JONES,https://jonesdao.io,Arbitrum,Options,DAOJonesOptions,
+PieDAO,DOUGH,https://www.piedao.org/,Ethereum,Indexes,PieDAO_Defi,https://docs.piedao.org/technical/audits
+Paladin Finance,-,https://www.paladin.vote,Ethereum,Lending,Paladin_vote,https://github.com/pessimistic-io/audits/blob/914e35fdfc879451a61d2a3969f3be839b8c808f/Paladin%20Security%20Analysis%20by%20Pessimistic.pdf
+Gearbox,GEAR,https://gearbox.fi,Ethereum,Indexes,GearboxProtocol,https://github.com/Gearbox-protocol/gearbox-contracts/tree/master/audits
+Pippi,PIPI,https://app.pippi.finance,Heco,Dexes,pippishrimpswap,https://github.com/Shrimp-Labs/audit/blob/master/Pippi%20Shrimp_audit.pdf
+Tidal Finance,TIDAL,https://tidal.finance,Polygon,Insurance,tidaldefi,https://docs.tidal.finance/audit-report
+EnterDAO,ENTR,https://enterdao.xyz,Ethereum,Services,EnterDao,
+Wrap Protocol,WRAP,https://app.tzwrap.com,Tezos,Synthetics,Wrap_Protocol,https://leastauthority.com/blog/audit-of-wrap-protocol-smart-contracts-for-tezos-foundation
+Wasabix,WASABI,https://wasabix.finance/#/app,"Ethereum,Binance,Polygon",Yield,WasabixFinance,https://wasabix-finance.gitbook.io/wasabix_finance/code/certik-audit-report
+Revault,REVA,https://www.revault.network/,Binance,Yield,revaultnetwork,"https://paladinsec.co/projects/revault-network/,https://www.certik.org/projects/revault"
+Wault,WEX,https://wault.finance/,"Binance,Polygon",Yield,Wault_Finance,https://docs.wault.finance/resources/transparency
+Smoothy,SMTY,https://smoothy.finance/,Ethereum,Dexes,smoothswap,"https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Smoothy-v1.0.pdf,https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20SmoothyV1.pdf"
+Oin Finance,OIN,https://oin.finance,Near,Algo-Stables,FinanceOin,https://oin-finance.gitbook.io/925/misc.-resources/documentation#oindao-v3-audits
+Kogefarm,KOGECOIN,https://kogefarm.io,"Polygon,Fantom,Moonriver",Yield,kogecoin,https://github.com/Tibereum/obelisk-audits/blob/main/Kogefarm.pdf
+Eleven Finance,ELE,https://eleven.finance,"Fantom,Polygon,Avalanche,Binance,OKExChain",Yield,ElevenFinance,https://www.certik.org/projects/elevenfinance
+PsyOptions,-,https://www.psyoptions.io,Solana,Options,PsyOptions,
+Oxygen,OXY,https://www.oxygen.org/,Solana,Lending,Oxygen_protocol,
+UniFarm,UFARM,https://unifarm.co,"Ethereum,Binance,Polygon",Yield,unifarm_,https://blog.oropocket.com/wp-content/uploads/2021/02/OpenDeFi-Unifarm-Audit-Report-QuillAudits.pdf
+ThorusFi,THO,https://thorus.fi/,"Avalanche,Moonbeam",Dexes,ThorusFi,https://thorus.fi/Thorus_Bonds-Inspex_Audit.pdf
+VoltSwap,VOLT,https://voltswap.finance,"Theta,Meter",Dexes,Meter_IO,
+Rose,ROSE,https://app.rose.fi,Aurora,Dexes,RoseOnAurora,
+Chest Finance,-,https://www.chestfinance.xyz/,Solana,Options,chestfinance,
+GIBXSwap,X,https://gibxswap.io,Binance,Dexes,GIBX_Swap,https://www.certik.org/projects/gibx-swap
+StakeSteak,STEAK,https://stakesteak.com,Fantom,Yield,stake_steak,
+KuSwap,KUS,https://kuswap.finance,Kucoin,Dexes,kuswapfinance,
+xDollar,SPACE,https://www.xdollar.fi/,IoTeX,CDP,xDollarFi,https://github.com/xDollar-Finance/xDollar-contracts/blob/main/xDollar%20-%20Smart%20Contract%20Audit%20v210624.pdf
+Cardstarter,CARDS,https://www.cardstarter.io/,Ethereum,Launchpad,CardStarter,https://t.me/Cardstarter/115433
+DeFis Network,DFS,https://defis.network,EOS,Dexes,DFSnetworks,"https://www.slowmist.com/en/security-audit-certificate.html?id=ca2c97083e94d0958e9376b770b16a7f8ddd53fb1e5f1b9cbabc0ccf8d157d40,https://github.com/peckshield/publications/blob/master/audit_reports/DeFis-Network_Swap_audit_report_2020_20_cn_1_0.pdf"
+IFPool,IFT,https://ifpool.io,CSC,Liquid Staking,if_networks,https://github.com/IFWallet/ifpool_staking/blob/main/audits/IFPool%20Security%20Assessment.pdf
+Agave,AGVE,https://agave.finance,xDai,Lending,Agave_lending,
+Integral,ITGR,https://integral.link/,Ethereum,Dexes,ProfessorJEY,https://docs.integral.link/library/audit-reports
+OmniDex,CHARM,https://home.omnidex.finance,Telos,Dexes,OmniDex1,
+QuipuSwap,QUIPU,https://quipuswap.com,Tezos,Dexes,QuipuSwap,https://leastauthority.com/static/publications/LeastAuthority_Tezos_Foundation_QuipuSwap_Smart_Contracts_Final_Audit_Report.pdf
+Firebird,HOPE,https://app.firebird.finance/one-pool,Polygon,Dexes,FinanceFirebird,"https://docs.firebird.finance/security-safu/audits,https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Firebird-Swap-v1.0.pdf"
+Crystl Finance,CRYSTL,https://www.crystl.finance,"Cronos,Polygon",Yield,CrystlFinance,https://polycrystal.gitbook.io/polycrystal-finance/security/audits
+Hermes Protocol,-,https://hermes.maiadao.xyz/,Metis,Dexes,MaiaDAOMetis,
+Indexed Finance,NDX,https://indexed.finance/,Ethereum,Indexes,ndxfi,https://docs.indexed.finance/protocol/security
+HakuSwap,HAKU,https://hakuswap.com,Avalanche,Dexes,HakuSwap,https://hakuswap.com/audit.pdf
+Glide Finance,GLIDE,https://glidefinance.io,Elastos,Dexes,GlideFinance,https://docs.glidefinance.io/security/audit
+Mushrooms Finance,MM,https://www.mushrooms.finance/,"Ethereum,Fantom,Binance,Polygon",Yield Aggregator,MushroomsFinan1,https://github.com/mushroomsforest/deployment/blob/main/security.md
+Huckleberry,FINN,https://www.huckleberry.finance/#/swap,Moonriver,Dexes,HuckleberryDEX,https://github.com/HuckleberryDex/huckleberry-contracts/blob/main/Smart%20contract%20security%20audit%20report-Huckleberry.pdf
+Soy Finance,SOY,https://soy.finance,Callisto,Dexes,Soy_Finance,https://soy-finance.gitbook.io/soy-finance/safety-on-yields/soy-finance-security-audit
+Soluna,-,https://soluna.money,Terra,Yield,solunaDAO,
+Savannah Finance,SVN,https://svn.finance,Cronos,Algo-Stables,MMFcrypto,https://mmfinance.gitbook.io/docs/audit
+DDEX,-,https://ddex.io/,Ethereum,Dexes,ddexio2018,https://github.com/HydroProtocol/audit-reports/blob/master/2.0/hydro_audit_report_2019_14_en_1_0.pdf
+Kalata,KALA,https://www.kalata.io/,Binance,Synthetics,KalataOfficial,
+ZKSwap,ZKS,https://zks.org/en,Ethereum,Chain,ZKSwapOfficial,
+Gains Network,GNS,https://gainsnetwork.io,Polygon,Dexes,GainsNetwork_io,https://www.certik.com/projects/gainsnetwork
+Wild Credit,WILD,https://wild.credit,Ethereum,Lending,WildCredit,https://code423n4.com/reports/2021-07-wildcredit/
+Cometh,MUST,https://www.cometh.io/,Polygon,Dexes,MUSTCometh,
+Exodia,EXOD,https://exodia.fi/,Fantom,Reserve Currency,EXODIAFinance,
+xToken,XTK,https://xtoken.market/,Ethereum,Yield,xtokenmarket,https://docs.xtoken.market/misc/untitled-1#is-synlev-audited
+LootSwap,LOOT,https://lootswap.finance,Harmony,Dexes,lootswapfinance,
+KSwap Finance,KST,https://kswap.finance,OKExChain,Dexes,kswap_finance,https://static.kswap.finance/audit/KST_Audit_Report_EN.pdf
+Symmetric,SYMM,https://symmetric.finance,"xDai,Celo",Dexes,0xSymmetric,https://docs.symmetric.exchange/audit
+GotchiVault,VGHST,https://www.gotchivault.com,Polygon,Staking,GotchiVault,
+Golff Protocol,GOF,https://golff.finance/#/,"Ethereum,Heco,Binance",Yield,GolffProtocol,https://github.com/golfffinance/audit
+Tokenlon,LON,https://tokenlon.im,Ethereum,Dexes,tokenlon,https://github.com/consenlabs/tokenlon-security/blob/master/audits/PeckShield-Audit-TokenlonV5-v1.0rc.pdf
+Depth,DEP,https://depth.fi/,"Heco,Binance",Dexes,DepthFi,https://docs.depth.fi/audit
+Alita Finance,ALI,https://app.alita.finance,Binance,Dexes,AlitaFinance,https://www.certik.org/projects/alitafinance
+iTrust Finance,ITG,https://itrust.finance,Ethereum,Insurance,iTrustFinance,https://assets.website-files.com/5f99eb79d508ca853be5f2e8/60fd80c015025a7033cf6ede_iTrust.pdf
+EmpireDEX,-,https://app.empiredex.org/farm,"Cronos,Binance,Fantom,Avalanche,Polygon,Ethereum,xDai",Dexes,Empire_DEX,
+LuaSwap,LUA,https://luaswap.org/#/,"Ethereum,TomoChain",Dexes,LuaSwap,https://github.com/tomochain/luaswap-core/tree/master/audit
+MakiSwap,MAKI,https://makiswap.com,Heco,Dexes,MakiSwap,https://www.certik.org/projects/makiswap
+Tranche Finance,SLICE,https://tranche.finance,"Ethereum,Fantom,Polygon,Avalanche",Yield,TrancheFinance,https://docs.tranche.finance/tranchefinance/governance/security-and-development#security-audits
+MarginSwap,MFI,https://marginswap.finance,"Avalanche,Ethereum,Polygon,Binance",Dexes,marginswap,
+Beluga,BELUGA,https://beluga.fi,Fantom,Yield,beluga_fi,https://callisto.network/beluga-protocol-security-audit
+Spartan,SPARTA,https://spartanprotocol.org,Binance,Dexes,SpartanProtocol,"https://github.com/spartan-protocol/resources/blob/master/certik-audit.pdf,https://code423n4.com/reports/2021-07-spartan/,https://www.immunefi.com/bounty/spartanprotocol"
+Cropper,CRP,https://cropper.finance,Solana,Dexes,CropperFinance,"https://github.com/HalbornSecurity/PublicReports/blob/master/Solana%20Program%20Audit/Cropper_Finance_Farm_Solana_Program_Security_Audit_Report_Halborn_Final.pdf,https://github.com/HalbornSecurity/PublicReports/blob/master/Solana%20Program%20Audit/Cropper_Finance_AMM_Program_Security_Audit_Report_Halborn_Final.pdf"
+Pole Aggregator,POLE,https://pole.finance,Solana,Yield,Pole_Finance,
+SoulSwap,SOUL,https://soul.sh,Fantom,Dexes,SoulSwapFinance,
+Cozy Finance,-,https://www.cozy.finance,Ethereum,Insurance,cozyfinance,"https://www.cozy.finance/audits/quantstamp.pdf,https://www.cozy.finance/audits/peckshield.pdf"
+Yogi Finance,YOGI,https://yogi.fi,"Polygon,Binance",Dexes,yogi_finance,https://docs.yogi.fi/core-concepts/security/audits
+Plenty Defi,PLENTY,https://www.plentydefi.com,Tezos,Dexes,PlentyDeFi,https://plenty-defi.notion.site/Audits-70fdccf107ec42feb0bcf720cb6c5ba5
+Aladdin DAO,ALD,https://www.aladdin.club,Ethereum,Yield Aggregator,aladdindao,"https://www.aladdin.club/audits/PeckShield-Audit-Report-AladdinDAO2-v1.0.pdf,https://www.certik.org/projects/aladdindao"
+MacaronSwap,MCRN,https://macaronswap.finance,"Binance,Polygon",Dexes,macaronswap,https://www.certik.org/projects/macaronswap
+AuroraSwap,BRL,https://www.auroraswap.finance,Aurora,Dexes,AuroraSwap,
+Tesseract,-,https://tesr.finance/#/,Polygon,Yield,tesseract_fi,
+TTswap,-,https://ttswap.space/#/swap,ThunderCore,Dexes,ThunderProtocol,
+Starstream,STARS,https://starstream.finance,Metis,Yield Aggregator,starstreamfin,https://docs.starstream.finance/contracts#audits
+Universe Finance,-,https://www.universe.finance/,"Ethereum,Polygon",Yield,Universe_FIN,"https://www.certik.org/projects/universefinance,https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-UniverseFinance-v1.0.pdf"
+Vee Finance,VEE,https://vee.finance/home,"Avalanche,Heco",Lending,VeeFinance,https://vee.finance/home#contract
+Zencha Finance,-,https://www.zencha.finance/#/,Boba,Dexes,ZenchaFinance,
+Polymarket,-,https://polymarket.com,Polygon,Prediction Market,PolymarketHQ,
+Nearpad,PAD,https://www.nearpad.io,Aurora,Dexes,NearPad,
+Pilot Protocol,PTD,https://p.td,Heco,Lending,Pilotprotocol,
+NiiFi,NIIFI,https://www.niifi.com/,Nahmii,Dexes,NiiFiDAO,
+TangoSwap,TANGO,https://tangoswap.cash/swap,smartBCH,Dexes,TangoSwapCash,https://github.com/0xGuard-com/audit-reports/blob/master/tangoswap/TangoSwap_final-audit.pdf
+AnchorSwap,ANCHOR,https://anchorswap.app/,Binance,Dexes,AnchorSwap,https://docs.anchorswap.finance/uploads/techrate.pdf
+CVI Finance,GOVI,https://cvi.finance/,"Polygon,Arbitrum,Ethereum",Synthetics,official_CVI,"https://cvi.finance/files/usdt-audit.pdf,https://cvi.finance/files/eth-audit.pdf"
+Drops,DOP,https://drops.co,Ethereum,Lending,dropsnft,
+Devil Finance,DEVIL,https://devilfinance.io/,Fantom,Yield,DevilFinance_io,https://github.com/solidproof/smart-contract-audits/blob/main/SmartContract_Audit_Solidproof_Devil.pdf
+Warp Protocol,WARP,https://www.warp.finance,Ethereum,Lending,warpfinance,https://github.com/warp-finance/warpv2/blob/c0d26e0b1a74dccbe042aae65cc964f0d391630a/audits/Trail%20of%20Bits%20Second%20Audit%20Warp%20Finance.pdf
+Cook Finance,COOK,https://www.cook.finance,"Avalanche,Heco,Binance,Ethereum",Indexes,cook_finance,https://github.com/CookFinance/cook-token/tree/master/audits
+DEUS Finance,DEUS,https://deus.finance,"Fantom,Ethereum,Polygon",CDP,DeusDao,
+Llama Airforce,-,https://llama.airforce,Ethereum,Yield,0xAlunara,
+Nerve,NRV,https://nerve.fi,Binance,Dexes,NerveFinance,https://docs.nerve.fi/fundamentals/audits-and-security
+Goose Finance,EGG,https://www.goosedefi.com/,Binance,Yield,Goosedefi,"https://www.goosedefi.com/files/hackenAudit.pdf,https://www.certik.org/projects/goose-finance"
+unFederalReserve,eRSDL,https://www.unfederalreserve.com,Ethereum,Lending,Unfederalreser1,https://lending-docs.unfederalreserve.com/docs/security/#security-audits
+Augmented Finance,AGF,https://augmented.finance,"Avalanche,Ethereum,Binance",Lending,augmentedfin,https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Augmented-v1.0.pdf
+ExinSwap,-,https://app.exinswap.com,Mixin,Dexes,,
+Trava Finance,TRAVA,https://trava.finance,"Binance,Fantom",Lending,trava_finance,"https://hacken.io/audits/#trava_finance,https://www.certik.org/projects/trava"
+Cub Finance,CUB,https://cubdefi.com,Binance,Yield,FinanceLeo,https://www.certik.org/projects/cubfinance
+Float Protocol,BANK,https://floatprotocol.com,Ethereum,Yield,FloatProtocol,https://drive.google.com/file/d/1Vg3nCThlArC44JFj7Di5HMWziPGMFbvl/view
+Swamp Finance,SWAMP,https://swamp.finance,Binance,Yield,SwampFinance,https://docs.swamp.finance/audits
+Thorstarter,XRUNE,https://thorstarter.org,Ethereum,Launchpad,thorstarter,
+ZooCoin,ZOO,https://zoocoin.cash,Fantom,Dexes,CoinZoo,
+StoneDefi,STN,https://stonedefi.io/,"Polygon,Binance,Ethereum,Avalanche",Yield Aggregator,DefiStone,https://www.certik.com/projects/stonedefi
+Gyro,GYRO,https://gyro.money,Binance,Reserve Currency,GyroDAO,
+Genshiro,GENS,https://genshiro.equilibrium.io,Genshiro,Lending,GenshiroDeFi,https://drive.google.com/file/d/1HBF2h71Wgs0bUqlmftulp81dgFTPTfUm/view
+MuesliSwap,MILK,https://muesliswap.com,"Cardano,smartBCH",Dexes,MuesliSwapTeam,
+Pika Protocol,-,https://pikaprotocol.com,Optimism,Dexes,PikaProtocol,"https://www.certik.com/projects/pikaprotocol,https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-PikaPerpV2-v1.0.pdf"
+PantherSwap,PANTHER,https://pantherswap.com/,Binance,Yield,PantherSwap,https://docs.pantherswap.com/security/audits
+MooniSwap,-,https://mooniswap.exchange/#/swap,Ethereum,Dexes,mooniswap,"https://dapp.org.uk/reports/mooniswap.html,https://mooniswap.exchange/docs/mooniswap-audit-report-2.pdf,https://mooniswap.exchange/docs/mooniswap-audit-report-3.pdf"
+Vesq,VESQ,https://www.vesq.io,Polygon,Reserve Currency,VESQHQ,https://paladinsec.co/projects/vesq
+Dinosaur Eggs,DSG,https://dsgmetaverse.com,Binance,Dexes,dsgmetaverse,https://www.certik.org/projects/dinosaureggs
+Vaporwave,VWAVE,https://www.vaporwave.farm,Aurora,Yield,vwavefinance,https://paladinsec.co/projects/vaporwave-finance
+Enso Finance,-,https://www.enso.finance,Ethereum,Indexes,EnsoFinance,
+MinMax Finance,MAX,https://minmax.finance,IoTeX,Dexes,minmaxfinance,
+Universe XYZ,XYZ,https://universe.xyz,Ethereum,Yield,universe_xyz,https://github.com/UniverseXYZ/xyzDAO-PM/tree/master/audits
+Kalmy App,KALM,https://kalmy.app,Binance,Yield,kalmar_io,"https://hacken.io/wp-content/uploads/2021/06/Kalmar_08062021SC-Audit_Report.pdf,https://hacken.io/wp-content/uploads/2021/04/03042021_Kalmar_SC_Audit_Report.pdf"
+ApeRocket,SPACE,https://aperocket.finance,Binance,Yield,ApeRocketFi,https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-ApeRocket-v1.0.pdf
+Iron Finance,IRON,https://iron.finance/,"Polygon,Fantom,Avalanche",CDP,IronFinance,"https://docs.iron.finance/bsc/audits,https://docs.iron.finance/iron-finance-on-polygon/audit"
+BSCSwap,BSWAP,https://bscswap.com/#/list,Binance,Dexes,,
+Radial,-,https://www.radialfinance.com,Fantom,Yield,RadialFinance,
+Niob Finance,NIOB,https://niob.finance/,Binance,Dexes,niobfinance,
+OpenOcean,OOE,https://openocean.finance,"Binance,Ethereum,Avalanche",Dexes,OpenOceanGlobal,https://docs.openocean.finance/security-and-auditing
+SpectreFi,SPECT,https://spectrefi.com,Fantom,Yield,SpectreDefi,
+Bearn,BFI,https://www.bearn.fi/,Binance,Yield,BearnFi,
+Mint Club,MINT,https://mint.club,Binance,Minting,MintClubPro,https://github.com/Steemhunt/mint.club-contract/tree/main/audits
+Whiteheart,WHITE,https://www.whiteheart.finance/,Ethereum,Options,WhiteheartDeFi,https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Whiteheart-v1.0.pdf
+Cap,CAP,https://cap.finance,Arbitrum,Dexes,CapDotFinance,
+Pidao Finance,PID,https://www.pidao.finance/,Binance,Reserve Currency,PIDAOFinance,https://www.certik.com/projects/pidaofinance
+CougarSwap,CGS,https://cougarswap.io,"Cronos,Binance,Avalanche,Harmony,Polygon,Fantom",Yield,cougarswap,https://github.com/TechRate/Smart-Contract-Audits/blob/main/CougarSwap.pdf
+Hunny Finance,HUNNY,https://hunny.finance,Binance,Yield,HunnyFinance,https://www.certik.org/projects/pancakehunny
+OneSwap,ONES,https://www.oneswap.net,"CSC,Ethereum,Binance,Tron",Dexes,OneSwap,https://github.com/oneswap/contract_audit_report
+Pizza,PIZZA,https://pizza.finance,EOS,Lending,PizzaProFi,
+Jade Protocol,JADE,https://jadeprotocol.io/,Binance,Reserve Currency,JadeProtocol,
+Cyclone,CYC,https://cyclone.xyz,"Ethereum,Binance,IoTeX,Polygon",Yield,cycloneprotocol,https://docs.cyclone.xyz/audit
+Matrix Farm,-,https://matrix.farm,Fantom,Yield Aggregator,farm_matrix,https://solidity.finance/audits/MatrixFarm
+Polycat,FISH,https://polycat.finance,Polygon,Dexes,PolycatFinance,https://docs.polycat.finance/security#audit
+Teddy Cash,TEDDY,https://teddy.cash,Avalanche,CDP,TeddyCashLive,
+ErgoDEX,ERG,https://ergodex.io,Ergo,Dexes,ErgoDex,
+CarbonSwap,SUSU,https://carbonswap.exchange/#/swap,EnergyWeb,Dexes,carbonswap_fi,
+Magic Land,MAGIC,https://magicland.fi,"IoTeX,Arbitrum",Yield,0xMagicland,
+DefiPlaza,DFP2,https://defiplaza.net/,Ethereum,Dexes,DefiPlaza,https://github.com/pessimistic-io/audits/blob/main/DeFi%20Plaza%20Security%20Analysis%20by%20Pessimistic.pdf
+Ocean Protocol,OCEAN,https://oceanprotocol.com,"Ethereum,Binance,Moonriver,Polygon",Services,oceanprotocol,https://github.com/oceanprotocol/contracts/blob/main/docs/REP-Ocean-08_10_2020.pdf
+cVault Finance,CORE,https://cvault.finance/,Ethereum,Yield,CORE_Vault,https://arcadiamgroup.com/audits/CoreFinal.pdf
+Scientix,SCIX,https://scientix.finance,Binance,Synthetics,ScientixFinance,"https://app.inspex.co/library/scientix#?scope=scientix-stakingpool-vault-strategy-votingescrow,https://github.com/sec-bit/scientix-audit-report/blob/main/Scientix_Protocol_Report_EN.pdf"
+OakFarm,OKF,https://oakfarm.io,"OKExChain,Binance",Yield,OakFarm_io,https://oakfarm.io/certik.pdf
+BasketDAO,BASK,https://basketdao.org/,Ethereum,Indexes,BasketDAOOrg,https://github.com/basketdao/contracts/tree/main/audits
+Swipe,SXP,https://swap.swipe.org,"Binance,Ethereum",Dexes,Swipe,https://www.certik.org/projects/swipe
+DuneSwap,DUNE,https://www.duneswap.com/exchange/swap,Oasis,Dexes,DuneSwap,
+OrcaDAO,ORCA,https://www.avai.finance,Avalanche,Lending,OrcaDAO,https://paladinsec.co/projects/orcadao
+Augur,REP,https://www.augur.net/,Ethereum,Dexes,AugurProject,https://github.com/AugurProject/augur-audits
+Defily,DFL,https://defily.io/#/,"Binance,Kardia,Harmony",Yield,defilyfinance,https://docs.defily.io/resources/smart-contracts-audit
+UnoRe,UNO,https://unore.io,"Ethereum,Binance",Insurance,unoreinsure,https://github.com/Uno-Re/audit-reports
+Fabric,FAB,https://stake.fsynth.io,Solana,Yield,official_fabric,
+Crema Finance,-,https://www.crema.finance,Solana,Dexes,Crema_Finance,
+WaterLoan,WAT,https://waterloan.finance,CSC,Lending,realwaterloan,
+ChargeDeFi,CHARGE,https://www.chargedefi.fi,Binance,Algo-Stables,ChargeDeFi,https://www.certik.com/projects/chargedefi
+Crow Finance,CROW,https://crowfi.app/,Cronos,Dexes,crowfi_,https://www.certik.com/projects/crowdefi
+PolyQuity,PYQ,https://polyquity.org,Polygon,CDP,polyquity_org,https://github.com/PolyQuity/audits/tree/main
+GoodDollar,G$,https://www.gooddollar.org,"Ethereum,Fuse",Staking,gooddollarorg,https://github.com/GoodDollar/GoodProtocol/tree/master/audits
+Unilend,UFT,https://unilend.finance,"Polygon,Ethereum,Binance",Lending,UniLend_Finance,https://docs.unilend.finance/the-protocol/audit-reports
+Telos Swap,SWAP,https://www.tswaps.com,Telos,Dexes,,
+Powerbomb Finance,-,https://www.powerbomb.finance,Avalanche,Yield,powerbombfi,
+Potluck Protocol,FANG,http://fantom.potluckprotocol.com,Fantom,Dexes,PotluckProtocol,https://dessertswap.finance/audits/Potluck%20BSC-FTM%20audit%2011437133.pdf
+Crunchy Network,crDAO,https://crunchy.network,Tezos,Services,CrunchyTez,
+Growth DeFi,GRO,https://growthdefi.com/,"Binance,Avalanche,Ethereum",Yield,GrowthDefi,https://consensys.net/diligence/audits/2020/12/growth-defi-v1/
+Avaware,AVE,https://avaware.network,Avalanche,Yield,AvawareAVE,
+EverRise,RISE,https://www.everrise.com,"Binance,Ethereum,Polygon,Fantom,Avalanche",Services,EverRise,https://www.certik.com/projects/everrise
+Empyrean DAO,EMPYR,https://empyrean.fi,Aurora,Reserve Currency,empyreanfi,
+Fuzz Finance,FUZZ,https://fuzz.fi,Harmony,Dexes,FuzzFinance,
+Alphadex,ROAR,https://alphadex.io,Moonriver,Dexes,thealphadex,
+MidasDAO,CROWN,https://midasdao.org,Avalanche,Reserve Currency,Midas_DAO,
+Templar DAO,TEM,https://templar.finance/,"Binance,Moonriver,Harmony",Reserve Currency,TemplarDAO,
+veDAO,WeVE,https://www.vedao.io/,Fantom,Yield,_veDAO_,
+WagmiDAO,GMI,https://wagmidao.io,Harmony,Reserve Currency,WagmiDAO_,https://docs.wagmidao.io/resources/audits
+SnowSwap,SNOW,https://snowswap.org/,"Ethereum,Polygon",Dexes,snow_swap,https://hackmd.io/@9GUQpanJRF6cloQ0fwyPFw/r1_ctUuqv
+WingSwap,WIS,https://wingswap.io,Fantom,Dexes,WingSwapFTM,https://wingswap.gitbook.io/wingswap/getting-started/audit-1
+Tulip,TULIP,https://tulip.money/,Oasis,Algo-Stables,MoneyTulip,
+WardenSwap,WAD,https://www.wardenswap.com,Binance,Dexes,WardenSwap,https://www.certik.org/projects/wardenswap
+PERI Finance,PERI,https://pynths.com,"Polygon,Ethereum,Binance",Synthetics,PERIfinance,https://www.certik.org/projects/perifinance
+Multiplier,MXX,https://multiplier.finance,"Binance,Ethereum",Lending,MultiplierMXX,https://mcl-docs.multiplier.finance/developers/security-and-audits
+Volmex,-,https://volmex.finance/,"Ethereum,Polygon,Arbitrum",Yield,volmexfinance,https://docs.volmex.finance/security/audits
+Swerve,SWRV,https://swerve.fi/,Ethereum,Dexes,SwerveFinance,https://github.com/crypticlabs/swerve-audit-report/blob/master/Swerve%20Finance%20Audit%20-%20by%20Cryptic%20Labs%20v3.pdf
+Feeder Finance,FEED,https://www.feeder.finance,"Binance,Fantom",Yield,FeederFinance,https://docs.feeder.finance/audits
+Furucombo,COMBO,https://furucombo.app,Polygon,Yield,furucombo,https://docs.furucombo.app/audit
+NFT20,MUSE,https://nft20.io,"Ethereum,Polygon",Minting,niftymuseum,
+PadSwap,TOAD,https://padswap.exchange,"Binance,Moonbeam,Moonriver",Dexes,ToadNetwork,"https://dapps.padswap.exchange/pad_audit_report.pdf,https://toad.network/toad_audit_report.pdf"
+Cycle Finance,CYCLE,https://www.cycle.finance,Avalanche,Yield Aggregator,CycleProtocol,
+Olive Cash,OLIVE,https://avax.olive.cash,"Avalanche,Fantom,Binance",Yield,OliveCashBsc,https://olive-cash.gitbook.io/olive-cash/bsc-1/audit-1
+Warp,WARP,https://warp.bond/,Polygon,Reserve Currency,WarpBond,
+Saros,SAROS,https://saros.finance,Solana,Yield,Saros_Finance,https://app.inspex.co/library/saros-finance#?scope=saros-finance
+WOWswap,WOW,https://wowswap.io,"Binance,Avalanche,Polygon,IoTeX,Ethereum,Heco,Metis",Dexes,Wowswap_io,https://hacken.io/wp-content/uploads/2021/06/WowSwap_03062021SCAudit_Report_2.pdf
+Croblanc,CROBLANC,https://app.croblanc.com/farms,Cronos,Yield,croblancdotcom,
+Handle Fi,FOREX,https://handle.fi,"Ethereum,Arbitrum",CDP,handle_fi,https://drive.google.com/file/d/1WMbvtLCA07z5Jlg9k4tV76x8yDWV66-Z/view
+HyperSwap,ORI,https://hyperjump.fi/home-ftm.html,Fantom,Dexes,hyper_swap,https://docs.hyperjump.fi/essentials/audits
+GemKeeper,-,https://app.gemkeeper.finance/#/swap,Oasis,Dexes,GemKeeperDeFi,
+R U Generous,RUG,https://www.rug.farm/#/dashboard,Avalanche,Reserve Currency,RUGenerous,
+Layer2 Finance,-,https://layer2.finance,Ethereum,Yield,layer2finance,https://github.com/celer-network/layer2-finance-v2-contracts/tree/main/audit
+Maia DAO,MAIA,https://maiadao.xyz,Metis,Reserve Currency,MaiaDAOMetis,
+Proxy,PRXY,https://prxy.fi,"Polygon,Ethereum",Yield,BTC_proxy,https://github.com/Quillhash/Audit_Reports/blob/master/BTC%20Proxy%20Smart%20Contracts%20Audit%20Report%20-%20QuillAudits.pdf
+Liquidrium,-,https://www.liquidrium.com,"Ethereum,Polygon,Arbitrum",Yield,,"https://www.certik.com/projects/liquidrium,https://hacken.io/audits/#liquidrium"
+Qubit,QBT,https://qbt.fi,"Binance,Klaytn",Lending,QubitFin,https://github.com/PancakeBunny-finance/qubit-finance/blob/master/audits/PeckShield-Audit-Report-Qubit-v1.0.pdf
+Atlas USV,USV,https://app.atlasusv.com/#/dashboard,Polygon,Reserve Currency,atlasusv,
+Lydia,LYD,https://www.lydia.finance/,Avalanche,Dexes,LydiaFinance,https://docs.lydia.finance/security/certik-audit
+NAOS Finance,NAOS,https://naos.finance,"Ethereum,Binance",Lending,naos_finance,https://certificate.quantstamp.com/full/naos-formation
+RocketSwap,RSWP,https://rocketswap.exchange,Lamden,Dexes,RSwapOfficial,
+Tower Finance,CUBE,https://towerfinance.io,Polygon,Algo-Stables,tower_finance,https://github.com/towerfinance/tower-v2-solidity/blob/main/audit/Tower_Finance_Smart_Contract_Audit_-_Final_Report.pdf
+Hyper Finance,HYFI,https://hyfi.pro,Binance,Yield,hyper_finance,"https://www.certik.org/projects/hyperfinance,https://hyfi.pro/SlowMistAuditReport-HyperFinance-en.pdf"
+LatteSwap,LATTE,https://app.latteswap.com,Binance,Dexes,latteswapOG,https://docs.latteswap.com/latteswap/security/audits
+Poof Cash,POOF,https://www.poof.cash,Celo,Lending,PoofCash,https://uploads-ssl.webflow.com/606120c25fb119221b762612/615f8469329e45337d809a9a_Poof_Labs_Fall_Audit_Bramah.pdf
+Fuji DAO,-,https://www.fujidao.org,"Ethereum,Fantom",Lending,FujiFinance,
+Algebra DEX,ALGB,https://app.algebra.finance,Polygon,Dexes,CryptoAlgebra,https://algebra.finance/static/Hacken_Algebra_Audit-317911476f86c632be77388fa51852c0.pdf
+OpenSwap,OPENX,https://app.openswap.one,Harmony,Dexes,openswap_one,"https://github.com/0xGuard-com/audit-reports/blob/master/openswap/OpenSwap_final-audit-report_v1.pdfaudit,https://github.com/0xGuard-com/audit-reports/blob/master/openswap_v2/OpenSwapV2_final-audit-report.pdf"
+Yam Finance,YAM,https://yam.finance/,Ethereum,Synthetics,YamFinance,https://github.com/yam-finance/audits
+KLend,KLT,https://klend.finance/app,"Binance,OKExChain",Lending,oklend4,https://github.com/klend-lab/klend-protocol/blob/main/slowmist.pdf
+PhotonSwap Finance,PHOTON,https://photonswap.finance,Cronos,Dexes,photonswap_fi,
+LeonicornSwap,LEOS,https://dex.leonicornswap.com/home,Binance,Dexes,swapleonicorn,https://hacken.io/audits/#leonicorn_swap
+Life DAO,LF,https://lifedao.finance,Avalanche,Reserve Currency,Life_DAO,
+Float Capital,FLT,https://float.capital,"Polygon,Avalanche",Derivatives,float_capital,https://code423n4.com/reports/2021-08-floatcapital
+Rubicon,-,https://www.rubicon.finance,Optimism,Dexes,rubicondefi,https://docs.rubicon.finance/audits
+Lixir Finance,LIX,https://lixir.finance,Ethereum,Yield,lixirfinance,https://lixir-finance.gitbook.io/lixir-doc/resources/security/audits
+aSOL,-,https://asol.so,Solana,Liquid Staking,aSOLprotocol,
+Solyard,YARD,https://solyard.finance,Solana,Yield,SolyardFinance,https://github.com/SolyardFinance/Audit/blob/master/SlowMistAuditReport-SolYard.pdf
+OneRing,-,https://www.onering.finance,"Fantom,Polygon",Yield,Onering_Finance,
+PolkaEx,PKEX,https://www.polkaex.io,"Astar,Shiden,Ethereum,Binance,Polygon",Dexes,PolkaExOfficial,https://www.certik.com/projects/polkaex
+Standard Protocol,STND,https://standard.tech,"Metis,Ethereum,Shiden",Dexes,standarddefi,
+Oh Finance,OH,https://oh.finance,"Avalanche,Ethereum",Yield,OhFinanceDefi,"https://assets.oh.finance/OhFinance_Halborn_Audit.pdf,https://assets.oh.finance/OhFinance_ArmorLabs_Audit.pdf"
+Nsure,NSURE,https://nsure.network/,Ethereum,Insurance,Nsure_network,
+FlareLoans,-,https://xfl.flr.finance,Songbird,CDP,FlareFinance,
+PandaSwap,PNDA,https://www.pandaswap.xyz/#/,Binance,Yield,thebaoman,
+The Don Finance,THEDON,https://thedon.finance,Fantom,Yield,TheDonFinance1,
+Oddz,ODDZ,https://www.oddz.fi/,"Binance,Avalanche",Options,oddz_finance,https://github.com/oddz-finance/audits
+Ideamarket,IMO,https://ideamarket.io,Arbitrum,Derivatives,ideamarket_io,https://docs.ideamarket.io/contracts/audit
+OpenLeverage,-,https://openleverage.finance,Ethereum,Dexes,OpenLeverage,"https://github.com/OpenLeverageDev/openleverage-contracts/blob/main/audits/REP-OpenLeverage-Protocol-2021-06-24.pdf,https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-OpenLeverage-1.0.1.pdf"
+Timewarp,TIME,https://timewarp.finance,"Binance,Ethereum",Staking,ChronotechNews,
+YouSwap,YOU,https://www.youswap.com/,"Heco,Ethereum,Binance",Dexes,YouSwap_Global,https://youswap-1.gitbook.io/youswap/develop/audit-agency
+UniFi,UNFI,https://unifiprotocol.com,"Binance,Tron,IoTeX,Ethereum,Harmony,Icon,Polygon,Ontology,Avalanche,Bittorrent",Dexes,unifiprotocol,"https://drive.google.com/file/d/10Qdqj-ry4OhsQX3SesSRc1nEsNZ8UFkD/view,https://medium.com/unifiprotocol/unifi-protocol-passes-slowmist-audit-9694b55b77ba"
+Allinx,INX,https://allinx.io,Binance,Yield,allinxproject,
+Siren,SI,https://sirenmarkets.com/,"Ethereum,Polygon",Options,sirenprotocol,https://docs.sirenmarkets.com/faq-general/for-users#is-the-siren-protocol-safe
+Magnet DAO,MAG,https://magnetdao.finance/,Avalanche,Algo-Stables,Magnet_DAO,
+Antimatter,MATTER,https://antimatter.finance,"Binance,Ethereum,Arbitrum,Avalanche",Options,antimatterdefi,https://docs.antimatter.finance/developers/auditing-report
+CafeSwap,BREW,https://cafeswap.finance,"Binance,Polygon",Dexes,CafeSwapFinance,https://docs.cafeswap.finance/audits
+SheepDex,SPC,https://sheepdex.org/#/home,Binance,Dexes,SheepDex,
+Vigor,VIG,https://vigor.ai,EOS,Lending,vigorprotocol,https://s3.eu-central-1.wasabisys.com/audit-certificates/Smart%20Contract%20Audit%20Certificate%20-%20Vigorprotocol.pdf
+Coffin Finance,COFFIN,https://coffin.finance,Fantom,Algo-Stables,CoffinFinance,https://github.com/CoffinFinance/coffin-contracts/tree/main/audits
+Ram Protocol,RAM,https://rammer.finance/#/,ThunderCore,Lending,,
+EvolutionLand,KTON,http://evolution.land,"Ethereum,Polygon,Heco",Gaming,Evolution_Land,https://www.certik.org/projects/evolutionland
+Amun Tokens,"DFI,DMX",https://tokens.amun.com,"Polygon,Ethereum",Indexes,amuntokens,
+Shield,SLD,https://shieldex.io,Binance,Options,shield_dao,"https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20Shield.pdf,https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Shield-v1.0.pdf"
+ViveLaBouje,VIVE,https://vive.bouje.finance,Fantom,Yield,BoujeFinance,https://docs.bouje.finance/security/audit
+SafeSwap,SSGTX,https://safeswap-matic.yfdai.finance/#/swap,"Polygon,Ethereum",Dexes,DexSafeSwap,
+Alligator,GTR,https://www.alligator.exchange/,Avalanche,Dexes,alligator_defi,
+MetaReserve,POWER,https://metareserve.finance/,Binance,Reserve Currency,MetaReserveDAO,
+Acumen,ACM,https://acumen.network,Solana,Lending,acumenofficial,
+Sentre,SNTR,https://hub.sentre.io/welcome,Solana,Dexes,SentreProtocol,
+SeaDex,CWS,https://dex.seascape.network/#/swap,Moonriver,Dexes,seascapenetwork,
+ForceDAO,FORCE,https://forcedao.com/,Ethereum,Yield,force_dao,
+Strudel Finance,TRDL,https://strudel.finance,Ethereum,Bridge,EnterTheStrudel,
+Fastyield Finance,FAST,https://fastyield.app,Fantom,Yield Aggregator,fastyieldapp,
+Augury Finance,OMEN,https://augury.finance,Polygon,Yield,AuguryFinance,
+Degen Haus,DOPE,https://app.degen.haus/,Fantom,Dexes,HouseDegen,
+DefySwap,DFY,https://defyswap.finance/,Fantom,Dexes,DefySwap,https://defiyield.app/audit-database/shellboxes/defyswap
+Lien,LIEN,https://lien.finance/,Ethereum,Options,LienFinance,https://lien.finance/risk
+PegaSys,-,https://pegasys.finance,Syscoin,Dexes,PegasysDEX,
+SpicySwap,SPI,https://spicyswap.xyz/#/app,Tezos,Dexes,SpicySwap,
+Tropical Finance,DAIQUIRI,https://app.tropical.finance,smartBCH,Dexes,tropicalfi_,https://tropical.finance/audit.pdf
+Cover Protocol,COVER,https://www.coverprotocol.com/,Ethereum,Insurance,CoverProtocol,https://github.com/CoverProtocol/cover-security/tree/master/audits
+Rubic,RBC,https://rubic.exchange,"Ethereum,Fantom,Avalanche,Solana,Polygon,Binance,Harmony,Moonriver",Cross Chain,CryptoRubic,"https://www.certik.com/projects/rubic-finance,https://rubic.exchange/assets/pdf/fairyproof.pdf"
+BecoSwap,BECO,https://becoswap.com,Kardia,Dexes,beco_swap,https://github.com/TechRate/Smart-Contract-Audits/blob/main/Becoswap.pdf
+Globiance,GBEX,https://dex.globiance.com,XDC,Dexes,globiance,https://dexapi.globiance.com/assets/GlobianceDEXAudit.pdf
+Dios Finance,DIOS,https://dios.finance/,Binance,Reserve Currency,DiosFinance,
+RskSwap,-,https://rskswap.com,RSK,Dexes,RskSwap,
+GemMine,GEMMINE,https://gemmine.defiwaterfall.com,Fantom,Yield,defi_waterfall,
+0.exchange,ZERO,https://www.0.exchange/,Avalanche,Dexes,OfficialZeroDEX,
+KACO Finance,KAC,https://www.kaco.finance/,"Binance,Shiden",Dexes,KacOFinance,https://www.certik.com/projects/coinversation
+UnusDao,UDO,https://unusdao.finance/,Binance,Reserve Currency,UnusDao,
+Percent Finance,PCT,https://percent.finance/,Ethereum,Lending,PercentFinance,
+YetiSwap,YTS,https://www.yetiswap.app/,Avalanche,Dexes,YetiSwap,
+CapitalDEX,CGT,https://capitaldex.exchange/#/swap,"Ethereum,Curio",Dexes,Capitaldex_,
+Nileriver,NIL,https://www.nileriver.finance,Moonriver,Yield,NileRiver_Labs,
+ETHA Lend,ETHA,https://www.ethalend.org,Polygon,Yield,ethalend,https://www.certik.com/projects/ethalend
+BSCStation,BSCS,https://bscstation.finance/,Binance,Dexes,bscstation,"https://www.certik.org/projects/bscstation,https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-BSCStationStartPools-v1.0.pdf,https://github.com/Quillhash/Audit_Reports/blob/master/BSCS%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf"
+CheeseDAO,CHEEZ,https://www.cheesedao.xyz/#/dashboard,Harmony,Reserve Currency,CheezDAO,
+Luxor Money,LUX,https://Luxor.money,Fantom,Reserve Currency,LuxorMoney,
+Big Data Protocol,BDP,https://www.bigdataprotocol.com,Ethereum,Staking,bigdataprotocol,
+Ester Finance,EST,https://ester.finance,Fantom,Yield,EsterFinance,
+Shinobi,-,https://shinobi.ubiq.ninja/#/swap,Ubiq,Dexes,ubiqsmart,
+PinkSwap,PINKS,https://www.pinkswap.finance/,Binance,Dexes,pinkmoonfinance,https://github.com/TechRate/Smart-Contract-Audits/blob/main/PinkSwap%20Token%20Full%20Smart%20Contract%20Security%20Audit.pdf
+XDeFi,XDEX,https://xdefi.com/,Ethereum,Dexes,xdefilab,"https://www.slowmist.com/en/security-audit-certificate.html?id=7b91209f526407299aee5f99688b62fb2c337a4316a6b305719a9e3cd5442348,https://www.certik.org/projects/xdefi"
+OtterClam,CLAM,https://www.otterclam.finance,Polygon,Reserve Currency,otterclam,
+UPFI Network,UPS,https://upfi.network,Solana,Algo-Stables,upfi_network,https://www.rdauditors.com/wp-content/uploads/2021/11/UPFI-Network-Smart-Contract-Security-Report.pdf
+XEUS,XEUS,https://xeus.finance/#/stake,Binance,Reserve Currency,xeus_finance,
+Component,CMP,https://component.finance/,"Ethereum,Binance,xDai",Dexes,componentx,
+BooFinance,BOOFI,https://www.boofinance.io/,Avalanche,Yield,Boo_Finance,
+SakePerp,SAKE,https://www.sakeperp.fi,"Ethereum,Binance",Dexes,Sake_Perp_Swap,"https://sakeperp.fi/audit-report/Smart-Contract-Security-Audit-Report-SakePerp-Protocol-EN.pdf,https://sakeswap.finance/SAKEen.pdf"
+Pop Town,POP!,https://new.pop.town,Ethereum,Yield,PoPt0wn,
+Narwhalswap,NAR,https://narwhalswap.org/#/swap,Binance,Dexes,narwhalswap,
+SteakBank Finance,SBF,https://steakbank.finance/,Binance,Staking,SteakBank,https://docs.steakbank.finance/audits
+Chronoswap,CNO,https://chronoswap.org,Cronos,Dexes,Chrono_swap,
+BambooDeFi,BAMBOO,https://www.bamboodefi.com,"Binance,Ethereum",Yield,FiBamboo,"https://www.bamboodefi.com/assets/Bamboo%20DeFi%20-%20Security%20Audit%20Report.pdf,https://www.bamboodefi.com/assets/bridge_audit.pdf"
+Hades Swap,SOUL,https://hadesswap.finance,Polis,Dexes,HadesSwap,
+Axion,AXN,https://axion.network,Polygon,Staking,axion_network,"https://axion.network/news/updates/halborn-audit-results,https://solidity.finance/audits/Axion"
+1Swap,1SWAP,https://1swap.fi,Moonriver,Dexes,1swapfi,
+Wheat Protocol,WHEAT,https://wheat.growthdefi.com/,Binance,Yield,GrowthDefi,
+HaloDAO,RNBW,https://www.halodao.com/,"Ethereum,Polygon",Yield,HaloDAOFinance,https://docs.halodao.com/contract-audits/overview
+Mobius Finance,MOT,https://mobius.finance,Polygon,Synthetics,Mobius_Finance,https://github.com/mobiusfinance/ContractsV1/tree/main/audit
+Minotaur Money,MINO,https://minotaur.money/,Cronos,Reserve Currency,Minotaur_Money,
+UniTrade,TRADE,https://unitrade.app/,Ethereum,Dexes,UniTradeApp,https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20%20Unitrade%20%5B06.10.2020%5D.pdf
+xSigma,SIG,https://xsigma.fi,Ethereum,Dexes,xSigma5,
+Polly Finance,POLLY,https://www.pollyfinance.com/,Polygon,Indexes,thebaoman,
+Dark Matter,DMD,https://www.dmu.zone,Fantom,Yield,darkmatterdefi,
+Nidhi-Dao,GURU,https://www.nidhidao.finance,Polygon,Reserve Currency,NidhiDAO,
+BunnyPark,BP,https://www.bunnypark.com/,Binance,Dexes,BunnyPark_BSC,"https://static.bunnypark.com/image/BunnyPark/pdf/SlowMistAuditReportBunnyPark-en.pdf,https://www.certik.org/projects/bunnypark,https://static.bunnypark.com/image/BunnyPark/pdf/PeckShield-Audit-Report-ERC20-BP-v1.0.pdf"
+Polydex,PLX,https://www.polydex.fi,Polygon,Dexes,polydexfi,https://github.com/polydex-fi/polydex-swap-core/blob/5fdd6b85550235800cd980ccb8fab9bd5247a7af/PolydexSwap.pdf
+Dev Protocol,DEV,https://devprtcl.com/,Ethereum,Staking,devprtcl,https://github.com/dev-protocol/protocol/blob/main/docs/audit-report__quantstamp--sept-15-2020.pdf
+FIAT DAO,FDT,https://fiatdao.com/,Ethereum,Yield,fiatdao,
+DuckyDeFi,DEGG,https://duckydefi.com/,Cronos,Dexes,DuckyDeFi,https://rugdoc.io/project/duckydefi-exchange/
+Embr Finance,-,https://embr.finance,Avalanche,Dexes,EmbrFinance,
+Phoenix Finance,PHX,https://www.phx.finance,"Polygon,Binance,Wanchain",Options,Phoenix__PHX,https://github.com/Phoenix-Finance/Pdfs
+FutureSwap,FST,https://www.futureswap.com/,Ethereum,Dexes,futureswapx,https://docs.futureswap.com/protocol/audits
+Arbi's Finance,ARBIS,https://arbis.finance,Arbitrum,Yield,arbis_finance,
+Dopple Finance,DOP,https://dopple.finance/,"Binance,Fantom,Harmony",Algo-Stables,dopplefi,https://dopple.gitbook.io/dopple-finance/certik-audit
+Volta DAO,VOLTa,https://app.voltadao.finance/,"Fantom,Avalanche",Reserve Currency,VoltaDAO,
+PEAKDEFI,PEAK,https://www.peakdefi.com/,"Ethereum,Binance",Services,PEAKDEFI,https://certificate.quantstamp.com/full/peakdefi
+YFII,YFII,https://dfi.money/,Ethereum,Yield Aggregator,DfiMoney,https://github.com/yfii/audit
+Pods Finance,-,https://www.pods.finance,"Polygon,Ethereum,Arbitrum",Options,PodsFinance,https://docs.pods.finance/security/audits
+BNBMiner Finance,-,https://bnbminer.finance,Binance,Services,Da_Developer,
+Fortress,FORT,https://app.fortressdao.finance,Avalanche,Reserve Currency,FortressDAO,
+Trapeza Protocol,FIDL,https://www.trapeza.finance/,Binance,Reserve Currency,TrapezaProtocol,
+Suterusu,SUTER,https://suterusu.io,"Ethereum,Binance",Services,suterusu_io,https://docs.suterusu.io/suterusu-protocol-1/security-audit
+Baguette,BAG,https://baguette.exchange,Avalanche,Dexes,Baguette_avax,
+MiniPanther DAO,MP,https://minipanther.money/#/,Fantom,Reserve Currency,PolyWantsAFarm,
+NewDex,DEX,https://newdex.io,EOS,Dexes,NewdexOfficial,https://support.newdex.net/hc/en-us/articles/4406436034189-PeckShield-Security-Audit-Report
+Auctus,AUC,https://auctus.org/,Ethereum,Options,AuctusOptions,https://docs.auctus.org/security#audits
+Domani Protocol,DEXTF,https://domani.finance/,Ethereum,Yield,DomaniProtocol,https://docs.dextf.com/documentation/introduction/security-assessment-report
+Soda Protocol,-,https://sodaprotocol.com/,Solana,Lending,SodaProtocol,https://www.certik.com/projects/sodaprotocol
+Pillar,-,https://pillarprotocol.com,Zilliqa,Algo-Stables,DevPillar,
+Kassandra DAO,KACY,https://kassandra.finance,Avalanche,Indexes,dao_kassandra,https://www.certik.com/projects/kassandra-finance
+UniPower,POWER,https://unipower.network,"Ethereum,Polygon",Staking,UniPowerToken,
+MiningTycoon,NT,https://nextype.finance,Heco,Minting,NEXTYPE1,https://www.certik.org/projects/nextype
+SuperFarm,SUPER,https://superfarm.com/,Ethereum,Services,SuperFarmDAO,
+YieldFields,FIELD,https://yieldfields.finance/,Binance,Yield,yieldfields,https://rugdoc.io/project/yieldfields/
+Swarm Markets,SMT,https://swarm.markets,Ethereum,Dexes,SwarmMarkets,https://docs.swarm.markets/reference/smart-contract-audit
+DeHive,DHV,https://dehive.finance,"Ethereum,Polygon,xDai,Binance",Indexes,dehive_finance,"https://github.com/DeHive-finance/dehive-audits/blob/main/DeHive-Hacken-Audit.pdf,https://github.com/DeHive-finance/dehive-audits/blob/main/DeHive-Zokyo-Audit.pdf"
+SpiritDAO,GHOST,https://dapp.spiritdao.finance/,Avalanche,Reserve Currency,spirits_dao,
+BiShares,BISON,https://bishares.finance,"Binance,Fantom",Indexes,BiSharesFinance,"https://bishares.finance/assets/docs/bishares-defiyield-audit.pdf,https://bishares.finance/assets/docs/bishares-gordian-audit.pdf"
+Singular Farm,SING,https://singular.farm,"Avalanche,Binance,Polygon,Fantom",Yield,singularfarm,https://solidity.finance/audits/MasterSing
+KwikSwap,KWIK,https://home.kwikswap.org,"Ethereum,Shiden,Polygon,Binance",Dexes,kwikswapdex,
+Varen,VRN,https://varen.finance,Ethereum,Dexes,varenfinance,https://certificate.quantstamp.com/full/linkswap
+Kafe Finance,KAFE,https://moon.kafe.finance/,"Cronos,Moonriver",Yield,kafefinance,https://github.com/Tibereum/obelisk-audits/blob/main/Kukafe.pdf
+Ruler,RULER,https://rulerprotocol.com/,Ethereum,Lending,RulerProtocol,https://docs.rulerprotocol.com/security
+Stacker Ventures,STACK,https://stacker.vc/,Ethereum,Yield,StackerVentures,"https://docs.stacker.vc/docs-stacker-ventures/audits/active-yield-fund-audit-report,https://docs.stacker.vc/docs-stacker-ventures/audits/smart-contract-audit-report"
+Serum Swap,SRM,https://swap.projectserum.com/,Solana,Dexes,ProjectSerum,
+ArbiNYAN,NYAN,https://arbinyan.xyz,Arbitrum,Yield,arbinyan,
+BondAppetit,BAG,https://bondappetit.io/,Ethereum,Lending,DeFiBonds,"https://github.com/mixbytes/audits_public/tree/4fc7d333e3df57586e0f96cc551819e2c93f3ae9/BondAppetit,https://github.com/HashEx/public_audits/blob/32a680c5b8f3a784ef3273c324e0841341f3abc2/BondApp%C3%A9tit/BondAppetit%20report.pdf"
+Basis Cash,BAC,https://basis.cash/,Ethereum,Algo-Stables,BasisCash,https://github.com/basisdollar/basisdollar-protocol#audit
+HFIone,HFI,https://hfi.one/#/en,Heco,Yield,fi_heco,https://hfi.one/slowmist.pdf
+Waka Finance,WAKA,https://waka.finance,Fantom,Dexes,WakaFinance,https://waka-finance-2.gitbook.io/waka-finance/documentation/audit
+ZYXSwap,-,https://app.zyxswap.com/#/swap,ZYX,Dexes,zyx_swap,
+BossSwap,BOSS,https://www.bossswap.finance,Harmony,Dexes,BossSwapFinance,https://www.bossswap.finance/audit
+Artemis Protocol,MIS,https://app.artemisprotocol.one/,Harmony,Launchpad,ArtemisProtoco1,https://paladinsec.co/projects/artemis-ifo/
+Fortune DAO,FORT,https://fortunedao.com,Cronos,Reserve Currency,Fortune_DAO,
+PureSwap,PURE,https://pureswap.finance,Binance,Dexes,Pureswap1,
+CobraSwap,COBRA,https://cobra.exchange,Binance,Dexes,VenomDAO,
+Canary,CNR,https://canary.exchange,Avalanche,Yield Aggregator,CanaryDex,
+SmartDEX,-,https://www.smartdex.app,Polygon,Dexes,AI_smartdex,
+TotemFi,TOTM,https://totemfi.com,Binance,Prediction Market,TotemFi,
+Multi-Chain Miner,-,https://multichain-miner.net,"Binance,Fantom,Polygon,Avalanche",Yield,multichainminer,
+Moonswap,mSWAP,https://swap.moonswap.in/#/swap,Moonriver,Dexes,MoonSwapDEX,
+CashCow Protocol,MILK,https://cashcowprotocol.com,Binance,Yield,CashCowProtocol,
+Entropyfi,ERP,https://www.entropyfi.com,Polygon,Prediction Market,entropyfi,
+EmiSwap,ESW,https://emiswap.com/,"Polygon,Ethereum,Kucoin",Dexes,EmiSwap,"https://hacken.io/wp-content/uploads/2021/02/18022021_Emiswap_SC_Audit_Report.pdf,https://emiswap.com/docs/12072021_Emiswap_SC_Audit_Report_V2.pdf"
+SunflowerSwap,SFR,https://sunflowerswap.finance,Ethereum,Dexes,Sunflower_Swap,
+Stargate Finance,SGT,https://www.stargate.zone/#/stake,Binance,Reserve Currency,StarGate_Fin,
+Nightmare Finance,FEAR,https://www.nightmarefinance.com,Fantom,Yield,Nightmare_fi,
+Neku,NEKU,https://neku.io,"Moonriver,Arbitrum,Binance",Lending,NekuFinance,"https://www.certik.org/projects/nekufinance,https://bitriseaudits.com/project/85"
+MyMine,MYMINE,https://mymine.defiwaterfall.com/#farms,Fantom,Yield,defi_waterfall,
+OneDAO Finance,ODAO,https://onedao.finance,Harmony,Reserve Currency,onedao_finance,
+Aquarius,AQU,https://aquarius.fi/,Fantom,CDP,Aquarius__Fi,https://docs.aquarius.fi/security/audit-report
+Piggy,PIGGY,https://piggy.fi,Binance,CDP,Piggy_Fi,https://www.certik.org/projects/piggy
+TerraFloki,TFLOKI,https://terrafloki.io,Terra,Dexes,TerraFloki,
+Whale Loans,HUMP,https://whale.loans,Binance,Reserve Currency,WhaleLoans,https://github.com/Whale-loans/audits/blob/main/audits/Blocksec/whale_v1.4.pdf
+Parrot Defi,PPEGG,https://parrotdefi.com,"IoTeX,Harmony,Polygon,Arbitrum",Yield,Parrotdefi1,
+ChickenSwap,KFC,https://www.chickenswap.org/#/,Ethereum,Dexes,ChefGrandpa,
+TendieSwap,TENDIE,https://www.tendieswap.org,Binance,Dexes,tendie_swap,
+Ante Finance,-,https://ante.finance,Ethereum,Insurance,AnteFinance,
+1BCH,1BCH,https://1bch.com,smartBCH,Dexes,1BCHOfficial,https://github.com/interfinetwork/smart-contract-audits/blob/main/1BCH_AuditReport_InterFi.pdf
+SumSwap,SUM,https://www.sumswap.org/#/,Ethereum,Dexes,sum_swap,https://www.certik.com/projects/sumswap
+Talent Protocol,-,https://www.talentprotocol.com,Celo,Services,talentprotocol,https://drive.google.com/file/d/1XKrcECxlIs0e3H7gmD0Avqsah_IuJB4H/view
+Bagels Finance,BAGEL,https://app.bagels.finance,Binance,Yield,BagelsFinance,https://www.certik.org/projects/bagelsfinance
+N3RD Finance,N3RDz,https://n3rd.finance/,Ethereum,Yield,nerdfinance1,
+O2 DAO,OTWO,https://app.otwodao.com,Avalanche,Reserve Currency,0xO2DAO,
+LoTerra,LOTA,https://loterra.io,Terra,Prediction Market,LoTerra_LOTA,https://docs.loterra.io/loterra/resources/security-audit#security-audit-report
+Flame DeFi,FLAME,https://flamedefi.io,Tezos,Yield,FlameDeFi,
+Gaj Finance,GAJ,https://gaj.finance,"Avalanche,Polygon",Yield,GajFinance,https://solidity.finance/audits/Gaj-NFT-Farming
+Seeder Finance,LEAF,https://seeder.finance,Binance,Yield,SeederFinance,https://inspex.co/reports/Inspex_AUDIT2021005_SeederFinance_Core_FullReport_v1.0.pdf
+Value Liquid,VALUE,https://valueliquid.io/#/swap,Ethereum,Dexes,value_defi,https://valuedefi.io/audit
+Paprprintr,PAPR,https://paprprintr.finance,"Kucoin,Aurora,Binance,Fantom,Polygon,OKExChain",Algo-Stables,paprprintr,https://docs.paprprintr.finance/audit
+Immortal,IMMO,https://www.immortaldao.finance/,Celo,Reserve Currency,ImmortalDAO_Fi,https://github.com/ImmortalDAO-Fi/immortaldao-contracts/issues/3
+PureFi,UFI,https://www.purefi.io,"Binance,Polygon,Ethereum",Yield,Purefi_Protocol,https://www.purefi.io/files/27072021_PureFi_Audit_Report.pdf
+SafeDollar,SDO,https://www.safedollar.fi,Polygon,Yield,safedollarfi,
+SleepEarn Finance,SEN,https://sleepearn.finance,Kardia,Yield,sleepearn,
+FTMguru,ELITE,https://ftm.guru,Fantom,Options,FTM1337,
+DungeonSwap,DND,https://dungeonswap.app,Binance,Yield,DungeonSwap,https://github.com/TechRate/Smart-Contract-Audits/blob/main/DungeonSwap.pdf
+FATFIRE DEFI,FATFIRE,https://fatfire.finance/,Fantom,Yield,DefiFatfire,https://rugdoc.io/project/fatfire-finance/
+ACoconut,AC,http://acoconut.fi/,"Binance,Ethereum",Yield,,https://docs.acoconut.fi/security
+Dapp Account DAO,DAD,https://superdad.finance,EOS,Yield,DAPPAccountDAO,https://dappaccountdao.gitbook.io/dappaccountdao/audit
+OpenDAO,pOPEN,https://opendao.io/,"Binance,Ethereum",Algo-Stables,opendaoprotocol,https://opendao.gitbook.io/transparency/audits
+FinNexus,FNX,https://finnexus.io/,"Ethereum,Binance,Wanchain",Options,fin_nexus,https://github.com/Phoenix-Finance/Pdfs/blob/master/PeckShield-Audit-FinnexusOptionsV1.0.pdf
+Polywhale Finance,KRILL,https://polywhale.finance/,Polygon,Yield,polywhalefi,"https://hacken.io/wp-content/uploads/2021/04/290432021_Polywhale_SC_Audit_Report-v2.pdf,https://paladinsec.co/projects/polywhale/"
+TreeDefi,SEED,https://treedefi.com,Binance,Yield,treedefi,https://www.certik.org/projects/treedefi
+SonicSwap,SONIC,https://sonicswap.io,Harmony,Dexes,SonicSwapIO,
+SWAPP,SWAPP,https://dex.swapp.ee/#/swap,Cronos,Dexes,SwappFi,
+Impossible Finance,IF,https://impossible.finance,Binance,Dexes,impossiblefi,https://github.com/ImpossibleFinance/audits
+QIAN,KUN,https://qian.finance/,Ethereum,Synthetics,,https://qian.finance/PeckShield-Audit-Report-QIAN2-v1.0.pdf
+Piggybank DAO,PB,https://piggybankdao.finance,Avalanche,Reserve Currency,PiggyBankDAO,https://piggybankdao.finance/TECHAUDIT_PIGGYBANK.pdf
+Frog Nation Farm,FROG,https://www.frognation.farm/,Fantom,Yield,frognation_farm,
+Stabilize,SET,https://stabilize.fi,Avalanche,CDP,stabilize_fi,
+SwapperChan,WAIFU,https://swapperchan.com/swap,Boba,Dexes,SwapperChan,
+Levinswap,LEVIN,https://levinswap.org/,xDai,Dexes,levinswap,
+TempoDAO,TEMPO,https://earn.tempodao.gg/#/stake,Avalanche,Reserve Currency,TempoDAO,
+AliensFarm,PAUL,https://aliens.farm,Tezos,Dexes,tezaliensfarm,
+Alium Swap,ALM,https://alium.finance/,Binance,Dexes,AliumSwap,"https://github.com/chainsulting/Smart-Contract-Security-Audits/blob/master/Aliumswap/02_Smart%20Contract%20Audit_Aliumswap.pdf,https://github.com/chainsulting/Smart-Contract-Security-Audits/blob/master/Aliumswap/02_Smart%20Contract%20Audit_AliumSwap_Core.pdf,https://www.certik.org/projects/aliumswap,https://drive.google.com/file/d/1Vd03-3ro62UvYMLeR8PHrmP5AeVBSD6v/view,https://drive.google.com/file/d/1DuyR97HWPk8Nxe5VJ8S9l3cdCZQwkGK5/view,https://drive.google.com/file/d/1oC_wrSwjw_47scZBeuHavTvtjwWmwQXS/view"
+Epsylon Finance,-,https://www.epsylon.finance/,Fantom,Yield Aggregator,epsylon_finance,
+PolyDEX-Cryption Network,CNT,https://www.polydex.org,Polygon,Dexes,Polydex_,https://www.certik.org/projects/cryptionnetwork
+PolygonFarm Finance,SPADE,https://polygonfarm.finance/,Polygon,Yield,PolygonFarmFi,"https://github.com/TechRate/Smart-Contract-Audits/blob/main/SPADE%20Standart%20Smart%20Contract%20Security%20Audit.pdf,https://paladinsec.co/projects/polygonfarm/,https://rugdoc.io/project/polygonfarm/"
+MiniSwap,MINI,https://www.miniswap.org,Ethereum,Dexes,Mini_Swap,
+KryptoDex,KRX,https://kryptodex.org,Cronos,Dexes,KryptoDex,https://github.com/polydex-fi/polydex-swap-core/blob/5fdd6b85550235800cd980ccb8fab9bd5247a7af/PolydexSwap.pdf
+Yapeswap,YAPE,https://yape.exchange,Ethereum,Yield Aggregator,yapeswap,
+ArenaSwap,ARENA,https://www.arenaswap.com/,Binance,Dexes,arenaswap,"https://rugdoc.io/project/arenaswap/,https://github.com/TechRate/Smart-Contract-Audits/blob/main/ArenaSwap%20Standart%20Smart%20Contract%20Security%20Audit.pdf"
+ZeroShift,ZRST,https://www.zeroshift.io/,Avalanche,Reserve Currency,ZeroShiftDAO,
+PartySwap,PARTY,https://app.partyswap.io/#/home,Avalanche,Dexes,partyswapdex,https://solidity.finance/audits/PartySwap
+Complus Network,COM,https://complus.exchange,Avalanche,Dexes,complusnetwork,
+Twindex,TWX,https://twindex.com/#/swap,Binance,Options,twindexcom,
+Waterfall BSC,WATERFALL,https://bsc.defiwaterfall.com,Binance,Yield,defi_waterfall,https://paladinsec.co/projects/waterfall-finance/
+DeFiner,FIN,https://definer.org/,"Ethereum,OKExChain",Lending,DeFinerOrg,https://docs.definer.org/
+Ubiquity DAO,-,https://ubq.fi/,Ethereum,Services,UbiquityDAO,
+BananaFarm,BANA,https://bananafarm.io,Boba,Yield,bananafarm_io,
+Cleopatra DAO,CAT,https://cleopatra-dao.xyz,Avalanche,Yield Aggregator,Cleopatra_DAO,
+Hpdex,HPD,https://app.hpdex.org/#/swap,HPB,Dexes,,
+Kebab Finance,KEBAB,https://kebabfinance.com/,Binance,Dexes,kebabfinance,https://www.certik.org/projects/kebab
+Doki Doki Finance,DOKI,https://dokidoki.finance/,"Ethereum,Polygon",Yield,dokidokifinance,https://defiyield.app/audit-database/defiyield/doki_doki_finance
+Defi Yield Protocol,DYP,https://dyp.finance,"Avalanche,Binance,Ethereum",Yield,dypfinance,https://dyp.finance/audit
+BT.Finance,BT,https://bt.finance/,Ethereum,Yield Aggregator,btdotfinance,https://github.com/btdotfinance/bt-finance/tree/master/audits
+KingDefi,KRW,https://kingdefi.io,"Binance,Polygon",Yield,KingDefi2,"https://hacken.io/wp-content/uploads/2021/09/KingDefi_16092021_SCAudit_Report_4.pdf,https://kingdefi.io/assets/files/CertikAuditFarms.pdf,https://kingdefi.io/assets/files/CertikAuditPools.pdf,https://kingdefi.io/assets/files/AuditFarms.pdf"
+KokomoSwap,KOKOMO,https://kokomoswap.io/#/,Binance,Dexes,KokomoSwap,https://docs.kokomoswap.io/risk-and-security-1/audit
+KokoSwap,KOKO,https://kokoswap.org/,Binance,Dexes,kokoswap,
+YFDAI,YFDAI,https://yfdai.finance/,Ethereum,Services,YfdaiF,"https://attest.im/attestation/searchResult?qurey=4c533d00766c4b2a9761fad5da78b56f,https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MSgvIS2RfKE66pfkI81%2F-MUv-RfymyB6PvCRlnwz%2F-MUv1a71AjJ6p3Bgz5ui%2FChannels-Audit-Report-030321(1).pdf?alt=media&token=1af91ea6-d3d0-4ba3-8784-5dce6a907930"
+FuryLabs Finance,FURY,https://furylabsfinance.com,Fantom,Yield,FuryLabs_,https://fury-labs.gitbook.io/faq/security
+Mama DAO,MAMA,http://mamadao.co,Polygon,Reserve Currency,OfficialMamaDAO,
+Dino.Exchange,DINO,https://dino.exchange,Binance,Dexes,dinoexchange,
+zLot,zLot,https://zlot.finance/,Ethereum,Staking,zLOTFinance,
+RetroDefi,RCUBE,https://www.retrodefi.net,"Polygon,Binance",Yield,retrodefi,https://retrodefi.gitbook.io/retro-defi/audit
+DAOventures,DVD,https://www.daoventures.co,Ethereum,Yield,VenturesDao,https://github.com/daoventures/dao-audits
+PirateDAO,JOLLY,https://piratedao.money,Avalanche,Reserve Currency,DAOPirate,
+Merlin,MERL,https://www.merlinlab.com/farm,Binance,Yield,MerlinLab_,https://merlinlab.gitbook.io/merlin/security-and-risks
+FreeRiver,FREE,https://freeriver.exchange/#/swap,Moonriver,Dexes,FreeRiverX,
+Banksy Farm,BANKSY,https://banksy.farm/,Avalanche,Yield,BanksyFarm,https://paladinsec.co/projects/banksy-farm/
+Behodler,EYE,https://behodler.io,Ethereum,Dexes,BehodlerAMM,
+Koala Defi,NALIS,https://koaladefi.finance/,"Binance,Polygon",Yield,KoalaDefi,"https://doc.koaladefi.finance/security/audits/audit-binance-smart-chain-bsc,https://doc.koaladefi.finance/security/audits/audit-polygon"
+NewSpace Finance,NEWSPACE,https://newspace.finance,Binance,Yield,newspacefinance,
+ADAX Pro,ADAX,https://dex.adax.pro,Cardano,Dexes,adax_pro,https://www.btblock.io/post/btblock-completes-cardano-smart-contract-review-for-adax
+Bright Union,BRIGHT,https://brightunion.io,Ethereum,Insurance,bright_union,"https://github.com/Bright-Union/security/blob/199fa66e474d4cbc003db3b0ed11bda105d32a6d/audits/Bright%20Union%20BV_audit.pdf,https://github.com/Bright-Union/security/blob/199fa66e474d4cbc003db3b0ed11bda105d32a6d/audits/Bright%20Union%20Staking_audit.pdf"
+Governor DAO,GDAO,https://governordao.org/,Ethereum,Yield,Governor_DAO,
+GoSwap,FAST,https://goswap.exchange/#/swap,GoChain,Dexes,goswapper,
+Agile Finance,AGL,https://www.agilefi.org,Cronos,Lending,agiledefi,https://github.com/solidproof/smart-contract-audits/blob/main/SmartContract_Audit_Solidproof_AgileFinance.pdf
+HSwap,-,https://www.hswap.com/#/,Heco,Dexes,HswapDEX,"https://www.hswap.com/slowmist-zh.pdf,https://www.hswap.com/lianan-zh.pdf"
+Mercurity,MEE,https://www.mercurity.finance,Ethereum,Dexes,MercurityDefi,https://docs.mercurity.finance/en/security-audit
+Salem Finance,SALEM,https://salem.finance/,"Cronos,Polygon,Fantom",Yield,SalemFinance,https://paladinsec.co/projects/salem-finance/
+The Grand Banks,GRAND,https://www.thegrandbanks.finance,"Binance,Moonriver,Polygon",Yield,Grandbanks13,https://www.certik.org/projects/grandbanks
+S Finance,SFG,https://s.finance/,Ethereum,Dexes,SFinanceEx,https://s.finance/risks
+ShadeCash,SHADE,https://shade.cash,Fantom,Privacy,ShadeCash_,
+BeGlobal Finance,GLB,https://dapp.beglobal.finance/,Binance,Dexes,Beglobaldefi,
+MFinance,MG,https://m.finance,Ethereum,Staking,,https://github.com/MagallaneFinance/Audit-report
+Omicron,OMIC,https://omic.finance,Arbitrum,Reserve Currency,OmicDAO,
+CryptoMate,CMT,https://cryptomate.me/,Stacks,Dexes,CryptoMate_defi,
+Avalps,BLANC,https://ape.avalps.finance/,Avalanche,Reserve Currency,AvalpsFinance,
+Trick or Treat Farm,TRICK,https://trickortreat.farm/,Fantom,Yield,tricktreatfarm,https://github.com/solidproof/smart-contract-audits/blob/main/SmartContract_Audit_Solidproof_TrickOrTreat.pdf
+NoahArkDAO,NRK,https://noahark.money/#/,Avalanche,Reserve Currency,NoahArkDAO,
+Vanilla,VNL,https://vanilladefi.com,Ethereum,Derivatives,VanillaDeFi,https://github.com/vanilladefi/contracts/tree/main/audits
+SecureDAO,SCR,https://www.securedao.finance/,Fantom,Reserve Currency,SecureDao,
+Cesta Finance,-,https://cesta.finance,Avalanche,Reserve Currency,CestaFinance,https://hacken.io/audits/#cesta_finance
+Shiba Fantom,SHIBA,https://shibafantom.finance,Fantom,Dexes,ShibaFantom,
+Thoreum Finance,THOREUM,https://thoreum.finance/,Binance,Yield,ThoreumFinance,"https://github.com/TechRate/Smart-Contract-Audits/blob/main/Thoreum.pdf,https://paladinsec.co/assets/audits/20210621_Paladin_Thoreum_Finance.pdf,https://www.certik.com/projects/thoreumfinance"
+Frost Finance,TUN,https://frostfinance.farm,Avalanche,Yield,Frost_FI,
+Ara Finance,ARA,https://arafinance.land/,Avalanche,Reserve Currency,AraFinance,
+Xenophon,XPH,https://xenophon.finance/,Binance,Reserve Currency,XenophonDAO,
+Swift Finance,SWIFT,https://swiftfinance.farm/,Avalanche,Yield,SwiftFinanceOff,https://rugdoc.io/project/swift-finance/
+Mover,MOVE,https://viamover.com,Ethereum,Yield,viaMover,
+RagnarokDAO,RGK,https://app.ragnarokdao.finance/,Avalanche,Reserve Currency,RagnarokDAO,
+PearZap,PEAR,https://app.pearzap.com,"Polygon,Binance,Fantom",Yield,pearzap,
+Hexal,HXL,https://app.hexal.finance/,Binance,Reserve Currency,HexalDAO,
+CorgiSwap,CORIS,https://corgiswap.org,Binance,Dexes,corgidogeestate,
+Xensa,XENSA,https://www.xensa.fi,OKExChain,Lending,XensaFi,https://github.com/XensaFi/xensa-audits
+Argano,AGO,https://www.argano.io,Polygon,Synthetics,argano_io,https://github.com/Tibereum/obelisk-audits/blob/main/Argano.pdf
+Meso Finance,fMESO,https://www.meso.finance,Fantom,Yield,mesofinance,https://paladinsec.co/projects/meso-finance
+TaiChi,TAC,https://www.taichidao.io,Binance,Reserve Currency,TaiChi_Dao_,
+Mean Finance,-,https://mean.finance,Ethereum,Yield,mean_fi,
+Symblox,SYX,https://symblox.io,Velas,Synthetics,SymbloxDeFi,https://github.com/symblox/symblox-yield-farming/tree/master/audit
+Paladin DAO,PAL,https://www.paladindao.com/,Binance,Reserve Currency,DaoPaladin,
+Manifest,MNFST,https://manifest.gg,Ethereum,Services,manifest,
+CyberTime,CTF,https://cybertime.finance,Binance,Services,cybertime_eth,https://www.certik.com/projects/cybertime
+Vaulty Finance,VLTY,https://vaulty.fi,Binance,Yield,VaultyFi,"https://vaultyfinance.s3.eu-central-1.amazonaws.com/Vaulty-Audit-by-Web3Go.pdf,https://www.rdauditors.com/wp-content/uploads/2021/10/Vaulty-Smart-Contract-Security-Audit-Report.pdf"
+PolyShield,SHI3LD,https://polyshield.finance,Polygon,Yield,TeamPolyshield,"https://paladinsec.co/projects/polyshield,https://rugdoc.io/project/polyshield-finance"
+Fluity,FLTY,https://fluity.finance/,Binance,CDP,FluityFinance,https://docs.fluity.finance/audits
+Sencha,-,https://sencha.so,Solana,Dexes,SenchaDEX,
+RobiniaSwap,RBS,https://robiniaswap.com/,Binance,Dexes,robiniaswap,https://github.com/TechRate/Smart-Contract-Audits/blob/main/September/RobiniaSwap.pdf
+Kuu Finance,-,https://kuu.finance,Avalanche,Dexes,KuuFinance,
+XUSD Money,XUSD,https://xusd.money,Ethereum,Algo-Stables,xusd_stable,
+Typhoon Cash,PHOON,https://typhoon.cash,Ethereum,Privacy,TyphoonCash,https://drive.google.com/file/d/1AZlcJmF1WJE1km3p0ajUKP6vTqhcvqh3/view
+Gravity Finance,GFI,https://gravityfinance.io/,Polygon,Dexes,Gravity_Finance,
+Railgun,RAIL,https://railgun.org,"Ethereum,Binance,Polygon",Privacy,railgun_project,"http://assets.railgun.ch/docs/audits/Railgun%20Audit%20Report%20-%20Zokyo%20November%202021.pdf,https://bafybeiakdhweojvf7zvtp2tr32alzam4yyifbolf7fgrmsshalea7fv55m.ipfs.cf-ipfs.com/docs/Railgun%20Audit%20Report%20-%20ABDK%20July%202021.pdf"
+Crafting Finance,CRF,https://crafting.finance,"Aurora,Ethereum",Synthetics,CraftingFinance,
+8ightDAO,EIGHT,https://app.8ight.finance/#/dashboard,Harmony,Reserve Currency,8ight_finance,
+SwapMatic,SWAM,https://swapmatic.io,Polygon,Dexes,SwapMatic,
+Ice Colony,ICE,https://www.icecolony.com/,Polygon,Yield,IceColony,https://paladinsec.co/projects/ice-colony/
+Squid Stake,SQUID,https://squidstake.com,Binance,Yield,SquidStake,https://docs.squidstake.com/contracts
+Union Finance,UNN,https://unn.finance,Ethereum,Yield,UNNFinance,https://github.com/UNIONProtocolFoundation/union-protocol/tree/main/docs/audits
+Cronofi Finance,CRONO,https://www.cronofifinance.com/,Cronos,Yield,Cronofi_Finance,https://rugdoc.io/project/cronofi/
+Amy Finance,AMY,https://amy.finance,Arbitrum,Lending,amyfinance,https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Amy-v1.0.pdf
+Zabu Finance,ZABU,https://zabu.finance,Avalanche,Yield,zabufinance,
+Mensa Protocol,MSA,https://www.mensapro.com,Fantom,Lending,MensaPro,https://docs.mensapro.com/risk-control/audit-reports
+StormSwap,STORM,https://stormswap.finance,"Avalanche,Cronos",Yield,StormSwap_Fi,https://paladinsec.co/projects/stormswap-finance/
+Polkamarkets,POLK,https://www.polkamarkets.com,"Ethereum,Moonriver,Moonbeam",Options,polkamarkets,"https://www.certik.com/projects/polkamarkets,https://hacken.io/wp-content/uploads/2021/10/Polkamarkets_06102021SCAudit_Report_2.pdf,https://drive.google.com/file/u/3/d/121EaqOJPGuxhXeRWIGe4KHiWxTA8OO0P/view?usp=sharing"
+Cupid Farm,ARROWS,https://www.coconuts.finance/,Fantom,Yield,cupid_farm,
+Newland,-,https://newland.finance,"Heco,Ethereum",Yield,Newlandplatform,https://www.fairyproof.com/doc/Newland-Audit-Report-080321.pdf
+Superman Swap,SUPERMAN,https://www.supermanswap.com/,Binance,Yield Aggregator,SwapSuperman,"https://rugdoc.io/project/superman-swap/,https://jagosafer.io/superman-swap"
+SmolSwap,SMOL,https://smolswap.com,Cronos,Dexes,SmolSwap,
+Moneyrain Finance,MONEYRAIN,https://defimoneyrain.com,Fantom,Yield,defi_waterfall,https://defi-waterfall.gitbook.io/moneyrain-finance/security/paladin-audit
+Tornadao,NADO,https://www.tornadao.finance,Avalanche,Reserve Currency,Tornadao_fi,
+Defirex,DFX,https://defirex.org,Ethereum,Yield,DeFireXorg,https://github.com/pessimistic-io/audits/blob/main/DeFireX%20Security%20Audit%20by%20Pessimistic%20Public.pdf
+Illuvium,ILV,https://illuvium.io,Ethereum,Yield,illuviumio,https://certificate.quantstamp.com/full/illuvium-yield-farming-rewards
+IFSwap,IFS,https://ifswap.finance,CSC,Dexes,if_networks,
+Gondola Finance,GDL,https://gondola.finance/,Avalanche,Dexes,gondola_finance,
+Astral Financial,ASTRAL,https://astral.financial/#/moonbeam,Moonbeam,Yield,AstralFinancial,
+DNA Dollar,DNA,https://dnadollar.com,Cronos,Algo-Stables,dna_dollar,
+SmartDEXBCH,DSMART,https://smartdex.cash/,smartBCH,Dexes,smartdogebch,
+ArbiRise Finance,ARF,https://www.arbirise.finance,Arbitrum,Yield,ArbiRiseFinance,
+DAO Maker,DAO,https://daomaker.com/vault,Ethereum,Services,TheDaoMaker,"https://learn.daomaker.com/audits,https://drive.google.com/file/d/18Anm53T_BbcRQLWHMthkQgvtLC6CDGW0/view,https://drive.google.com/file/d/1LCgxsQCz7vCDKK1AFxsInpKkVt_1q3q1/view,https://drive.google.com/file/d/1OpTWnZmhKu04kKYgFx89Nrh2Y68mhlv_/view,https://drive.google.com/file/d/1v78FH681imjrnXzjc4Ci_F4bW8oI19q5/view,https://drive.google.com/file/d/17qQwtqSe6uqLKfKYgLQHGc4GyImVx3iM/view"
+Sahara Exchange,ANKH,https://sahara.exchange,Oasis,Dexes,SaharaDex,
+CoFiX,COFI,https://cofix.io,Ethereum,Dexes,CoFiXProtocol,https://github.com/Computable-Finance/CoFiX/tree/master/security_audit
+Scranton Finance,PAPER,https://www.scranton.finance/,Fantom,Yield,Scranton_Fi,
+Spicy DAO,SPC,https://app.spicydao.finance/,Avalanche,Reserve Currency,Spicy_DAO,
+Waterfall Finance,WATERFALL,https://app.defiwaterfall.com,Fantom,Yield,defi_waterfall,https://paladinsec.co/projects/waterfall-finance/
+WraithSwap,WRA,https://wraithswap.finance/,Fantom,Dexes,wraithswap,
+Parasset,ASET,https://www.parasset.top/#/,Ethereum,CDP,Parasset2021,
+Flashstake,FLASH,https://flashstake.io/,Ethereum,Yield,flashstake,https://t.co/ngdoQ1FYv1?amp=1
+Astral Farm,ASTRAL,https://astral-farm.com,Fantom,Yield,Astral_FTM,
+BorgSwap,Fantom,https://borgswap.exchange,Fantom,Yield,BorgToken,https://github.com/TechRate/Smart-Contract-Audits/blob/main/BorgSwap.pdf
+Meowswap,MEOW,https://meowswap.net/,Binance,Yield,meowswap,https://www.certik.org/projects/meowswap
+Qilin,-,https://qilin.fi/,Ethereum,Dexes,QilinProtocol,https://github.com/CodexDao/QiLin/tree/main/audit
+LiquidSwap,-,https://liquidswap.org/#/swap,Liquidchain,Dexes,LiquidChainXLC,
+Klondike Finance,KLONX,https://klondike.finance,Ethereum,Synthetics,KlondikeFinance,
+UniverseFTM,UNIVERSE,https://www.universe-swap.com,Fantom,Yield,universe_ftm,
+Genesys,DNA,https://genesys.app/,Fantom,Yield,Genesys_ftm,https://paladinsec.co/projects/genesys/
+Draco Force,DRC,https://dracoforce.com,Fantom,Yield Aggregator,DracoForceDeFi,
+Skeleton Finance,SKULL,https://skeleton.finance,Fantom,Yield,SkeletonFinance,https://skeleton.finance/static/files/SmartContract_Audit_Solidproof_Skeleton.pdf
+PolyYeld Finance,YELD,https://app.polyyeld.finance/,Polygon,Yield,PolyYeldFinance,https://paladinsec.co/projects/polyyeld-v2/
+Farm Hero,HERO,https://farmhero.io,"Binance,OKExChain,Polygon",Gaming,FarmHeroIO,"https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-FarmHero-v1.0.pdf,https://www.certik.com/projects/farmhero"
+Raven,RAVEN,https://raven.scarecrow.fi,Fantom,Yield,scarecrowdefi,
+Elephantdex,ELEPHANT,https://elephant.ac,Harmony,Dexes,elephant_dex,
+OBSwap,OBT,https://swap.defiob.com,EOS,Dexes,defiob,
+Kyrios Finance,KYRIOS,https://kyrios.finance/,Fantom,Yield,KyriosFinance,"https://github.com/solidproof/projects/blob/main/Kyrios%20Finance/SmartContract_Audit_Solidproof_Kyrios_Finance.pdf,https://531035661-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhccNVLK8kuMkleYXpAJW%2Fuploads%2FCosEw4NkBoipdEtd883t%2FSmartContract_Audit_Solidproof_Kyrios_Finance.pdf?alt=media&token=78b83a6b-db33-4d51-88f4-346fbbd2467e"
+CerberusDAO,3DOG,https://cerberusdao.finance,Ethereum,Reserve Currency,DaoCerberus,
+Brinc,BRC,https://brinc.fi,Ethereum,Services,BrincFi,https://brinc-fi.gitbook.io/documentation/security-analysis/faas
+Baker Guild,BREAD,https://bakerguild.com/,Fantom,Yield,BakerGuild,https://paladinsec.co/projects/bakerguild/
+Primitive,-,https://primitive.finance/,Ethereum,Options,PrimitiveFi,https://docs.primitive.finance/traders/trader-risks#have-your-contracts-been-audited
+Oni Exchange,ONI,https://oni.exchange,Binance,Dexes,oniexchange,https://github.com/TechRate/Smart-Contract-Audits/blob/main/Oni%20MasterChef.pdf
+WeStarter,WAR,https://www.westarter.org,Heco,Launchpad,westarter_org,https://www.westarter.org/static/media/Security%20Assessment%20for%20WeStarter%20-%20Starter.4901202a.pdf
+Bring.Finance,BRNG,https://bring.finance,"Binance,Ethereum",Yield,BringFinance,
+Sapphire Defi,SAPPHIRE,https://sapphiredefi.com,Fantom,Yield,DefiSapphire,
+MonoX,MONO,https://monox.finance/,"Polygon,Ethereum",Dexes,MonoXFinance,"https://github.com/HalbornSecurity/PublicReports/blob/master/Solidity%20Smart%20Contract%20Audits/MonoX_Smart_Contract_Security_Audit_Report_Halborn_v1_1.pdf?hss_channel=lcp-28871137,https://drive.google.com/file/d/1nFS62QDifV4B8Mjo9Pj_rJ4fUujeVfq_/view?usp=sharing,https://drive.google.com/file/d/1WtlRAAfBF4HyQcUHKSJtT6MD7-mPN5Vz/view?usp=sharing,https://drive.google.com/file/d/1V2GRFZYIXPY3omYndR0N_NgnDM9LM_3B/view?usp=sharing"
+Overnight,-,https://ovnstable.io,Polygon,Algo-Stables,ovnstable,
+Buffaloswap,BUFF,https://www.buffaloswap.org/,Binance,Yield,BuffaloswapDex,https://github.com/solidproof/smart-contract-audits/blob/main/SmartContract_Audit_Solidproof_BuffaloToken.pdf
+Blizzard,BLIZZ,https://blizzard.network,Avalanche,Yield,BlizzardAVAX,
+TiPiDao,TPD,https://dao.takeprofit.fi/,Binance,Reserve Currency,TakeProfit_Fi,
+MarshmallowDeFi,MASH,https://marshmallowdefi.com,Binance,Yield,SwapMarshmallow,https://marshmallowswap.gitbook.io/marshmallowswap/in-the-pipeworks/audit
+Carbon Finance,CARBON,https://carbonfi.io,Arbitrum,Yield,carbonfi_io,
+FantomPup,FPUP,https://fantompup.finance,Fantom,Yield,PolyPup1,https://paladinsec.co/projects/polypup-finance
+ScareCrow Finance,SCARE,https://app.scarecrow.fi/,Fantom,Yield,scarecrowdefi,https://app.scarecrow.fi/audits/Solidproof.pdf
+Cyber Dog,CBRDOG,https://cyberdog.finance/,Cronos,Yield,cyberdogdefi,"https://rugdoc.io/project/cyber-dog-financv/,https://jagosafer.io/cyberdog"
+Thales,THALES,https://thales.market,Ethereum,Options,thalesmarket,https://iosiro.com/audits/thales-airdrop-and-staking-smart-contract-audit
+Knights of Fantom,KNIGHTS,https://www.knights-of-fantom.com,Fantom,Farm,knightsoffantom,https://knights-fantom.gitbook.io/knights-of-fantom/tokenomics/security-and-safety
+Helios Prime,-,https://heliosprime.live,Ethereum,Indexes,HeliosPrimeOne,
+Coconuts Finance,-,https://www.coconuts.finance,"Polygon,Avalanche",Yield Aggregator,CoconutsFinance,
+CryptoYieldFocus,CYF,https://www.cryptoyieldfocus.com,Avalanche,Yield,CryptYieldFocus,
+The Seed Farm,SEED,https://theseedfarm.app/,Avalanche,Yield,The_Seed_Farm,https://rugdoc.io/project/the-seed-farm/
+Brahma,-,https://www.brahma.fi,Ethereum,Yield,BrahmaFi,
+Swing DAO,GNIWS,https://swingdao.finance/,Avalanche,Reserve Currency,SwingDAOO,
+Xmas Past,$XPAST,https://www.xmas-past.com,Fantom,Yield,BooXmasPast,https://paladinsec.co/projects/xmas-past
+Zunami,-,https://www.zunami.io,Ethereum,Services,ZunamiProtocol,
+Dracula,DRC,https://dracula.sucks/,Ethereum,Yield Aggregator,DraculaProtocol,https://solidity.finance/audits/Dracula/
+Kromatika,KROM,https://kromatika.finance,Optimism,Dexes,KromatikaFi,
+Gaia DAO,GAIA,https://gaiadao.money/,Avalanche,Reserve Currency,GaiaDAO_fi,
+Polyroll,ROLL,https://polyroll.org,Polygon,Yield,PolyrollOrg,https://docs.polyroll.org/security
+Polyquail,-,https://www.polyquail.finance,Polygon,Yield,polyquail,
+BlackBird Finance,BIRD,https://croblackbird.finance/,Cronos,Yield,BlackBirdFIn,"https://rugdoc.io/project/black-bird-finance/,https://jagosafer.io/croblackbird"
+Adena Finance,ADENA,https://adena.finance,Harmony,Dexes,adenafinance,
+MintSwap,MINT,https://mint-swap.com,Avalanche,Services,SwapMint,
+2omb Finance,2OMB,https://2omb.finance/,Fantom,Algo-Stables,2ombFinance,
+MoonDao,MD,https://www.moondao.net/dashboard,Moonriver,Reserve Currency,Moon__Dao,
+Hotfriescoin,HFC,https://www.hotfriescoin.com/,Binance,Reserve Currency,hotfriescoin,
+Pinyottas,-,https://pinyottas.com,Ethereum,Minting,pinyottas,
+Kimochi,KIMOCHI,https://kimochi.finance,Binance,Services,KimochiFinance,https://kimochi.gitbook.io/docs/audit
+Manhattan,MHF,https://manhattan.finance,Fantom,Yield,,
+ApeDAO,vAPE,https://vapedao.finance/,Fantom,Yield,apedaofinance,
+Minimax,-,https://www.minimax.finance,Binance,Staking,MinimaxFinance,
+Zeus Finance,ZEU$,https://www.zeusfinance.app/,Cronos,Yield,ZeusFinanceCro,
+Squid-Defi,SQUID,https://squid-defi.com,Fantom,Staking,SquidDeFi,
+EggTartSwap,EGGT,https://eggtartswap.com,Harmony,Dexes,EggTartSwap,
+DeepSeaDAO,SEA,https://www.daodeepsea.com/,Avalanche,Reserve Currency,DeepseaDAO,
+KCCguru,KUCINO,https://kcc.guru,Kucoin,Prediction Market,KCCguru,
+Bourbon DAO,WHISKEY,https://www.bourbondao.com/,Binance,Reserve Currency,FinanceBourbon,
+DeerFi,-,https://deerfi.com/#/home,Ethereum,Lending,deerfi_com,
+FireDAO,-,https://firedao.com,Ethereum,Yield,FIREDAO_,https://github.com/FIREDAO/firedao-protocol/tree/main/audit
+OptiNyan,NYAN,https://optinyan.xyz,Optimism,Yield,optinyanxyz,
+Cemetery Finance,HAUNT,https://www.cemetery.finance,Fantom,Yield,cemeteryfinance,
+Genesis Finance,GENESIS,https://genesisfinance.app,Cronos,Dexes,cronos_genesis,
+VampireSwap,VAM,https://vampireswap.org,Fantom,Dexes,vampireswap,
+Pumpkin DAO,PUMP,https://app.pumpkindao.com/,Fantom,Reserve Currency,pumpkindao_com,
+LemonSwap,LEMON,https://lemonswap.space/,Binance,Yield,LemonSwapFarm,https://rugdoc.io/project/lemonswap/
+Asgard Dao,ASGARD,https://asgarddao.live/,Binance,Reserve Currency,Asgarddao_,
+GrassLand Finance,WILD,https://grassland.finance/,Polygon,Yield,GrassLandFi,https://rugdoc.io/project/grassland-finance/
+Robo-Advisor for Yield,-,https://staked.us/v/robo-advisor-yield/,Ethereum,Yield,,https://staked.gitbook.io/staked/ray/security
+Unirex Finance,UNIREX,https://www.unirex.finance,Fantom,Yield,UnirexFinance,
+Photon Protocol,PHOTON,https://photonprotocol.io/,Binance,Reserve Currency,photon_protocol,
+SamoDAO,samoDAO,https://www.samodao.finance/,Binance,Reserve Currency,samoDAO_finance,
+VultureSwap,VULTR,https://vultureswap.finance,Cronos,Dexes,VultureSwap,"https://www.certik.com/projects/vultureswap,https://paladinsec.co/projects/vultureswap,https://rugdoc.io/project/vultureswap"
+Veritable DAO,VRT,https://veritable.finance,Polygon,Yield,VeritableDao,
+Solana Farm,SOL,https://solanafarm.finance,Binance,Staking,solana_farm,https://github.com/Tech-Audit/Smart-Contract-Audits/blob/main/TECHAUDIT_SOLANAFARM.pdf
+Sierra,SRA,https://www.sierra.money/,Avalanche,Reserve Currency,SierraDAO,
+The Dragon's Lair,DREGG,https://thedragonslair.farm,Avalanche,Yield,DRGNCRYPTOGAMIN,https://docs.thedragonslair.farm/security-and-safety
+Emerald Swap,EMERALD,https://www.emeraldswap.com/,Binance,Yield,SwapEmerald,
+ArbiCheems,CHEEMS,https://arbicheems.finance/,Arbitrum,Yield,,
+Caribou Finance,CARIBOU,https://www.caribou.finance/,Fantom,Yield,CaribouFinance,
+AfraSwap,AFRA,https://afraswap.io,Binance,Dexes,afraswap,
+MetaCrono,METACRONO,https://www.metacrono.finance/,Cronos,Yield Aggregator,MetaCronoFarms,https://rugdoc.io/project/metacrono-finance/
+Bear Finance,BEAR,https://bearfinance.org,Fantom,Yield,BearFinanceOrg,
+Risq Protocol,RISQ,https://risq.capital,Binance,Options,risqprotocol,https://solidity.finance/audits/RisqProtocol
+TomoFinance,TFI,https://tomo.finance,TomoChain,CDP,TomoFinance,
+SenpaiSwap,-,https://senpaiswap.com/#/,Boba,Reserve Currency,senpaiswap,
+Tenet,TEN,https://tenet.farm,"Ethereum,Binance",Yield,TenetFarm,
+BabyPig Finance,BABYPIG,https://www.babypig.finance,Fantom,Yield,BabypigCash,
+Defi Halal,HALAL,https://defihalal.org,Polygon,CDP,DefiHalal,
+Mirai,MIRAI,https://mirai.farm/,Polygon,Yield,MiraiYieldFarm,https://rugdoc.io/project/mirai-farm/
+BitANT,BITANT,https://bitbtc.money/#/,Optimism,Yield,HelloBitANT,https://www.certik.com/projects/bitant
+Bouje Finance,BOUJE,https://bouje.finance,Fantom,Yield,BoujeFinance,https://paladinsec.co/projects/bouje-finance/
+Reverse,RVRS,https://app.reverseprotocol.one,Harmony,Reserve Currency,RVRSProtocol,
+CyberFantasyFembots,SAFE,https://factoryhq.io/,Polygon,Yield,FantasyFembots,
+Hotpot Finance,MEAT,https://hotpot.farm/,Binance,Yield,Hotpot_FinOff,https://rugdoc.io/project/hotpot-finance/
+SunFlower Finance,SFO,https://sunflowerfi.org,Binance,Dexes,SunFlowerFiSFO,https://solidity.finance/audits/Sunflower
+AvaViking,VIKING,https://www.avaviking.com/,Avalanche,Yield,vikingavax,
+weBribe DAO,vBRB,https://webribe.me,Fantom,Staking,weBribe_DAO,
+Papa DAO,PAPA,https://papadao.co/#/stake,Avalanche,Reserve Currency,PapaDAOofficial,
+Amogus DAO,SUS,https://amogus.money/,Avalanche,Reserve Currency,AmogusDAO,
+Vortex DAO,SPACE,https://www.vortexdao.com/,Avalanche,Reserve Currency,VortexDao,
+FTM Frens,FRENS,https://ftmfrens.com/,Fantom,Yield,FTMFrens,https://rugdoc.io/project/ftm-frens/
+Chad Finance,CHAD,https://www.chadfinance.io/,Fantom,Yield,ChadFtm,
+NowSwap,-,https://nowswap.org,Ethereum,Dexes,nowswap_org,
+Hermes Defi,IRIS,https://www.hermesdefi.io,Polygon,Yield,hermesdefi,https://hermes-defi.gitbook.io/hermes-finance/security/audits
+Coup Farm,COUP,https://coup.farm/,Avalanche,Yield,CoupFarm,https://rugdoc.io/project/coup-farm/
+Undead Finance,UNDEAD,https://www.undeadfinance.com,Fantom,Yield,FinanceUndead,
+SashimiDAO,SASHI,https://sashimidao.xyz,Avalanche,Reserve Currency,sashimi_dao,
+Snowdog,SDOG,https://www.snowdogdao.com,Avalanche,Reserve Currency,snowdogdao,
+ValhallaDAO,VALDAO,https://valhalladao.app/,Avalanche,Reserve Currency,valhalla_dao,
+Ice DAO,ICE,https://app.icedao.finance/#/dashboard,Avalanche,Reserve Currency,ICE_DAO_,
+Asgard Finance,ASG,https://www.asgarddao.finance,Ethereum,Yield,AsgardDAO,
+Bepswap,RUNE,https://thorchain.org/,Binance,Dexes,THORChain,https://www.certik.org/projects/thorchain
+SynLev,SYN,https://synlev.com/,Ethereum,Synthetics,,
+MochiSwap,MOCHI,https://mochiswap.io,"Binance,Harmony",Dexes,mochiswap,
+Tomb Finance,TOMB,https://tomb.finance/,Fantom,Algo-Stables,tombfinance,
+Longdrink,LONG,https://longdrink.finance,Binance,Indexes,LongdrinkDefi,https://github.com/LongdrinkDefi/contracts/tree/main/audit
+WitSwap,eWIT,https://witswap.com/,Ethereum,Oracle,WitSwap,https://github.com/witswap/contracts/blob/master/eWit_Security_Audit_Report_Final_Mainnet.pdf
+Telcoin,TEL,https://www.telx.network,Polygon,Payments,telcoin_team,https://www.certik.org/projects/telcoin
+Avalaunch,XAVA,https://avalaunch.app,Avalanche,Dexes,AvalaunchApp,
+Nuls,NULS,https://nuls.io,Nuls,Chain,Nuls,
+Sunrise Gaming,SUNC,https://sunrisegaming-dao.com,Ethereum,Prediction Market,SunriseGaming_d,https://www.certik.org/projects/sunrisegaming
+Coinswap Space,CSS,https://www.coinswap.space,Binance,Dexes,CoinSwap_Space,https://www.certik.org/projects/coinswap
+ShapeShift,FOX,https://shapeshift.com,Ethereum,Staking,ShapeShift_io,
+Banano,BAN,https://banano.cc,"Binance,Polygon",Yield,bananocoin,
+eCurve,ECRV,https://ecurve.finance,EOS,Dexes,DAPPAccountDAO,
+Bogged Finance,BOG,https://www.bogged.finance,Binance,Dexes,boggedfinance,https://static.bogged.finance/audit.pdf
+SYNC Network,SYNC,https://syncbond.com/,Ethereum,Minting,SYNCToken,https://blog.coinfabrik.com/cbond-smart-contract-audit/
+Only1,LIKE,https://only1.app,Solana,Minting,only1nft,
+Swap Cat,-,https://swap.cat,"xDai,Avalanche,Heco,OKExChain,Songbird,Harmony,Kucoin,Fantom,Binance,EthereumClassic,Celo,TomoChain,GoChain,Ethereum,EnergyWeb,RSK,Moonriver,HPB,Polygon,smartBCH,Arbitrum",Dexes,,
+Fegex,FEG,https://fegtoken.com,"Binance,Ethereum",Services,FEGtoken,https://solidity.finance/audits/FEG
+OraiChain,ORAI,https://orai.io,"Binance,Ethereum",Yield,oraichain,https://github.com/oraichain/audits
+BaconDAO,BACON,https://app.bacondao.com/,"Binance,Ethereum",Yield,BaconDAO_,https://drive.google.com/file/d/1AVc_YuSKoaojLUS7oUz65LZGxJzpItRY/view
+YEL Finance,YEL,https://yel.finance,"Fantom,Polygon,Binance,Ethereum",Yield,yel_finance,https://yield-enhancement-labs.gitbook.io/yield-enhancement-labs/other/audits
+JaguarSwap,JAGUAR,https://arbi.jaguarswap.com,Arbitrum,Yield,JaguarSwap,
+SmartCoin,SMRT,https://smartcoin.farm,Avalanche,Yield,0xSmartCoin,"https://paladinsec.co/pld/assets/20211018_Paladin_SmartCoin_Final_Report.pdf,https://rugdoc.io/project/smartcoin/"
+Billion Happiness,BHC,https://billionhappiness.finance/,Binance,Yield,BHC_Happiness,https://www.certik.org/projects/billionhappiness
+Decubate,DCB,https://platform.decubate.com/,Binance,Launchpad,decubate,
+Nasdex,NSDX,https://www.nasdex.xyz,Polygon,Dexes,nasdex_xyz,
+Umami Finance,UMAMI,https://umami.finance/,Arbitrum,Reserve Currency,UmamiFinance,
+AtmosSoft,ATMSSFT,https://www.atmossoftdefi.app,"Fantom,Binance",Gaming,AtmosSoft,
+ZigZag,-,https://trade.zigzag.exchange,zkSync,Dexes,ZigZagExchange,
+SquidDao,SQUID,https://squid.xyz,Ethereum,Reserve Currency,SquidDao,
+Capital DAO,CDS,https://capital-dao.io,Ethereum,Services,Capital_DAO_P,
+Nest Protocol,NEST,https://nestprotocol.org,Ethereum,Yield,nest_protocol,
+AxeDAO,AXE,https://www.axedao.finance,Ethereum,Reserve Currency,AxeDao,https://github.com/axedao/audit/blob/main/Techrate%20-%20AxeDAO.pdf
+Saffron Finance,SFI,https://saffron.finance,Ethereum,Staking,saffronfinance_,https://github.com/saffron-finance/saffron/tree/master/audits/saffron-staking-v2
+Temple DAO,TEMPLE,https://www.templedao.link,Ethereum,Reserve Currency,templedao,
+SafeOHM,SOHM,https://sohm.finance,Binance,Reserve Currency,Son_OHM,
+Paraswap,PSP,https://paraswap.io/,Ethereum,Dexes,paraswap,https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20ParaSwap%20%5B20.01.2021%5D.pdf
+BlackPool,BPT,https://blackpool.finance/,"Ethereum,Polygon",Minting,BlackpoolHQ,
+EverestDAO,EVRT,https://everestdao.net,Avalanche,Options,EverestDAO,
+Metaversepro,META,https://app.metaverse.pro,Binance,Reserve Currency,MetaverseProDAO,
+RaDao,RA,https://radao.finance,Binance,Reserve Currency,radao_bsc,
+Hex,HEX,https://hex.com,Ethereum,Staking,HEXcrypto,"https://hex.com/docs/HEX-Security-Audit-by-CoinFabrik-DEC2019.pdf,https://hex.com/docs/HEX%20Economics%20Audit%20by%20CoinFabrik.pdf"
+FreeLiquid,FL,https://freeliquid.io,Ethereum,Lending,freeliquidUSDFL,https://freeliquid.io/wp/Smart_contract_security_audit_report_freeliquid.pdf
+Lobis,LOBI,https://www.lobis.finance,Ethereum,Reserve Currency,LobisHQ,
+ARCx,ARCx,https://arcx.money/passport,Ethereum,Insurance,arcxmoney,
+Alpaca City,ALPA,https://alpaca.city,"Binance,Ethereum",Yield,CityAlpaca,
+Retreeb,TREEB,https://retreeb.io,Fantom,Payments,retreeb_io,
+Zai Finance,ZAI,https://zaiprotocol.finance/,Ethereum,Algo-Stables,zaifinance,
+VikingsFinance,VAL,https://vikings.finance,Avalanche,Reserve Currency,VikingsFinance,
+HoneyFarm,BEE,https://honeyfarm.finance,"Binance,Avalanche",Yield,HoneyFarmFi,"https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-HoneyFarm-v1.0.pdf,https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-HoneyFarm-v1.0.1.pdf"
+Giza DAO,GIZA,https://www.gizadao.com,Fantom,Reserve Currency,GizaDao,
+Colony,CLY,https://www.colonylab.io/,Avalanche,Services,Colonylab,
+RivrKitty,RKITTY,https://rivrkitty.com,Moonriver,Yield,RivrKitty,https://docs.rivrkitty.com/smart-contracts/main-contracts#usdpaws-farming-contract
+Base Protocol,BASE,https://www.baseprotocol.org,Ethereum,Indexes,BaseProtocol,
+BITPIF,BPF,https://bitpif.com/#/swap,Ethereum,Staking,bitpif,
+Numbers Protocol,NUM,https://www.numbersprotocol.io,"Binance,Ethereum",Services,numbersprotocol,
+Merit Circle,MC,https://www.meritcircle.io/,Ethereum,Launchpad,MeritCircle_IO,"https://www.meritcircle.io/Report.pdf,https://www.meritcircle.io/Quantstamp-Liquidity-Mining-Audit.pdf"
+MOBOX,MBOX,https://www.mobox.io/home/#/iframe/momo,Binance,Gaming,MOBOX_Official,https://faqen.mobox.io/#audit
+Sheesha Finance,SHEESHA,https://www.sheeshafinance.io,Binance,Staking,SheeshaFinance_,
+CakeDAO,CAKE,https://cakedao.finance/,Avalanche,Reserve Currency,Cake_DAO,
+The Sandbox,SAND,https://www.sandbox.game,"Ethereum,Polygon",Gaming,TheSandboxGame,
+Brokoli Network,BRKL,https://brokoli.network,"Binance,Ethereum",Dexes,BrokoliNetwork,
+Nacho Finance,NACHO,https://nachoxyz.com/,Polygon,Yield,nacho_finance,https://rugdoc.io/project/nachoxyz
+Kitty Finance,KITTY,https://kittyfinance.io,"Polygon,Avalanche",Algo-Stables,KittyAVAX,
+Polkastarter,POLS,https://polkastarter.com/#upcoming-projects,"Binance,Ethereum",Launchpad,polkastarter,
+Everipedia,IQ,https://everipedia.org,Ethereum,Services,Everipedia,
+ZodiacDAO,ZD,https://zodiacdao.finance/,Binance,Reserve Currency,ZodiacDAO_BEP20,https://www.certik.com/projects/zodiacdao
+One Cash,ONC,https://onecash.finance/,Ethereum,Staking,,
+Stand Cash,SAC,https://stand.cash/,Ethereum,Yield,,
+Optidoge,OPTIDOGE,https://optidoge.xyz/,Optimism,Yield,,
+SnowCatDAO,SCAT,https://snowcatdao.com/,Avalanche,Reserve Currency,DaoSnowCat,
+AgarthaDAO,CLAVIS,https://agartha.money/,Avalanche,Reserve Currency,AgarthaDAO,
+Wisteria Swap,WST,https://wisteriaswap.com,Binance,Yield,robiniaswap,https://github.com/TechRate/Smart-Contract-Audits/blob/main/December/Wisteria%20Swap.pdf
+Louverture,LVT,https://www.louverture.finance/,Avalanche,Yield,Louverture_fi,
+KawaiiSwap,CALCIFIRE,https://www.kawaiiswap.finance/,Binance,Yield,kawaiiswap,"https://github.com/solidproof/smart-contract-audits/blob/main/SmartContract_Audit_Solidproof_Calcifire.pdf,https://github.com/solidproof/kyc-certificates/blob/main/KYC_Certificate_Calcifer_%26_Howls_Castle.png"
+Valkyrie,VKR,https://valkyrieprotocol.com,Terra,Launchpad,valkyrie_money,https://docs.valkyrieprotocol.com/security#audits
+Umbrella Network,UMB,https://staking.umb.network,"Binance,Ethereum",Oracle,UmbNetwork,
+Cyclos,CYS,https://cyclos.io,Solana,Dexes,cyclosfi,
+Unite Finance,UNITE,https://unitefinance.io,Harmony,Algo-Stables,finance_unite,https://github.com/0xGuard-com/audit-reports/blob/master/unite-finance/Unite-Finance_final-audit-report.pdf
+Piggy Finance,PIGGY,https://piggyfinance.io/,Avalanche,Yield,piggy_finance,
+Scarab Finance,SCARAB,https://scarab.finance/,Fantom,Algo-Stables,Scarab_Finance,
+Rarify,RARE,https://rare.fyi,xDai,Yield,RarifyApps,
+Galatea Cash,gCASH,https://galatea.cash,Cronos,Algo-Stables,GalateaCash,
+Instrumental Finance,STRM,https://www.instrumental.finance,Ethereum,Yield,InstrumentalFi,
+Chikn Farm,EGG,https://chikn.farm,Avalanche,Services,chikn_nft,
+Chronicle,XLN,https://www.chronicle.io,Binance,Services,ChronicleXNL,
+Ferrum,FRM,https://ferrum.network,"Ethereum,Polygon",Services,FerrumNetwork,
+Predictcoin,PRED,https://predictcoin.finance/#,Binance,Prediction Market,PredictcoinFin,https://github.com/TechRate/Smart-Contract-Audits/blob/main/August/Predictcoin%20Full%20Smart%20Contract%20Security%20Audit.pdf
+Voyager,VGX,https://www.investvoyager.com,Ethereum,Staking,investvoyager,
+Karma DAO,KARMA,https://karmadao.money/,Avalanche,Reserve Currency,KarmaDAO_,
+OVR,OVR,https://www.ovr.ai,Ethereum,Services,OVRtheReality,
+LooksRare,LOOKS,https://looksrare.org,Ethereum,Minting,LooksRareNFT,
+Ultra Protocol,ULTRA,https://ultraprotocol.io/,Binance,Services,UltraProtocol,
+Bomb Money,BOMB,https://app.bomb.money/,Binance,Algo-Stables,BombMoneyBSC,
+Crabada,CRA,https://www.crabada.com,Avalanche,Gaming,PlayCrabada,"https://github.com/verichains/public-audit-reports/blob/main/Verichains%20Public%20Audit%20Report%20-%20Crabada%20Game%20-%20v1.1.pdf,https://github.com/verichains/public-audit-reports/blob/main/Verichains%20Public%20Audit%20Report%20-%20Crabada%20Sale%20-%20v1.2.pdf"
+Hermes Finance,HERMES,https://hermesfinance.app/,Avalanche,Algo-Stables,hermes_avax,
+Kandyland Finance,KANDY,https://app.kandyland.finance/,Avalanche,Reserve Currency,KandylandDAO,
+Luminous Finance,LUMI,https://luminous.finance/,Tron,Dexes,LumiToken,
+Proof of Humanity,UBI,https://www.proofofhumanity.id,Ethereum,Staking,proofofhumanity,
+Delta Financial,DELTA,https://www.delta.finance,Ethereum,Options,Delta_Token,
+SmartPad,PAD,https://smartpad.network/,"Aurora,Ethereum,Polygon",Launchpad,SmartPad_launch,
+X,X,https://x.xyz,Ethereum,Services,Xdotxyz,
+fees.wtf,WTF,https://fees.wtf/,Ethereum,Services,feeswtf,
+The Open DAO SOS,SOS,https://www.theopendao.com/#sos,Ethereum,Services,The_OpenDAO,https://www.certik.com/projects/opendao
+VyFinance,VYFI,https://vyfi.io,Cardano,Staking,VyFiOfficial,
+Tornado Finance,TCORE,https://tornado.finance,"Polygon,Binance,Ethereum",Yield,tornadofinance,https://tornado.finance/bsc/TCORE-audit.pdf
+Grape Finance,GRAPE,https://grapefinance.app/,Avalanche,Algo-Stables,grape_finance,https://github.com/0xGuard-com/audit-reports/blob/master/grape-finance/Grape-Finance_final-audit-report_1642499628626.pdf
+Hades Money,HADES,https://hades.money/,Metis,Algo-Stables,hades_andromeda,
+BloXmove,BLXM,https://bloxmove.com,"Binance,Ethereum",Services,BloXmove,
+Buffer Finance,IBFR,https://www.buffer.finance,Binance,Options,Buffer_Finance,https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Buffer-v1.0.pdf
+Specter Finance,SPECTER,https://specterfinance.xyz/,Fantom,Algo-Stables,specter_finance,
+Comfy Money,COMFY,https://comfy.money,Harmony,Algo-Stables,VenomDAO,
+Poopsicle,POOP,https://www.poopsicle.wtf,Fantom,Yield,poopsicle_crypt,
+Magik Finance,MAGIK,https://magik.finance/,Fantom,Algo-Stables,MagikDotFinance,
+Snowtomb,STOMB,https://snowtomb.com/,Avalanche,Algo-Stables,snow_tomb,
+Spiral Finance,SPR,https://spiral.farm/,Fantom,Yield Aggregator,SpiralFinance,
+Oceanus,SEA,https://oceanus.finance,Metis,Algo-Stables,0xOceanus,
+ShiroSwap,SHIR,https://shirotoken.com,Binance,Dexes,ShiroTokens,
+Unizen,ZCX,https://www.unizen.io,Ethereum,Services,unizen_io,
+API3,API3,https://api3.eth.link/#/,Ethereum,Oracle,API3DAO,https://github.com/api3dao/api3-dao/tree/main/reports
+IceCream Finance,CREAM,https://icecreamfinance.app/,Avalanche,Algo-Stables,IcecreamFinance,
+Moon Flower Farmers,MFF,https://moonflowerfarmers.com/,Aurora,Yield,MoonFarmers,
+Athena Money,OWL,https://www.athenamoney.org/,Moonriver,Algo-Stables,AthenaMoneyOrg,
+TreasureDAO,MAGIC,https://www.treasure.lol/,Arbitrum,Yield,Treasure_DAO,
+Dogs of Elon,DOE,https://dogsofelon.io,"Ethereum,Arbitrum",Minting,dogsofelon,https://www.certik.com/projects/dogs-of-elon
+Meld,MELD,https://www.meld.com,Cardano,Lending,MELD_labs,
+QAO,QAO,https://www.qao.io,Ethereum,Indexes,QAOdotio,https://github.com/TechRate/Smart-Contract-Audits/blob/main/Rarechain.pdf
+Velhalla,SCAR,https://velhalla.io,Velas,Gaming,velhallaproject,
+Ripae,pFTM,https://ripae.finance/,Fantom,Algo-Stables,ripaefinance,
+Gensokishi,MV,https://genso.game,Polygon,Gaming,genso_meta,
+Based Finance,BASED,https://basedfinance.io,Fantom,Algo-Stables,BasedFinance_io,
+Platinum Finance,PLAT,https://platinumfi.app/,Fantom,Algo-Stables,PlatinumDeFi,
+ProjectX,PXT2,https://projectx.financial/#home,Avalanche,Yield,ProjectXNodes,
+Thor Financial,THOR,https://www.thor.financial/#,Avalanche,Yield,thornodes,
+VaporFi,VPND,https://app.vapornodes.finance,Avalanche,Yield,VaporNodes,
+Basis Markets,BASIS,https://basis.markets,Solana,Dexes,basismarkets,
+Manarium,ARI,https://www.manarium.com,Binance,Gaming,manarium_gg,https://github.com/solidproof/smart-contract-audits/blob/main/SmartContract_Audit_Solidproof_Manarium.pdf
+Dibs Money,DIBS,https://www.dibs.money/,Binance,Algo-Stables,DibsMoney,https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/DibsMoney_AuditReport_InterFi.pdf
+Partial Finance,PARTIAL,https://partial.finance,Fantom,Algo-Stables,PartialFinance,
+Draco Finance,DRACO,https://www.draco.finance/,Fantom,Algo-Stables,DracoFinance,
+Arable Protocol,ACRE,https://app.arablefi.com/#/,Avalanche,Yield,ArableProtocol,
+Winkyverse,WNK,https://getwinkies.com,Binance,Staking,thewinkies1,https://docsend.com/view/v9fk2ajkksjd9xcz
+Croissant Games,CROISSANT,https://croissant.games,Cronos,Staking,GamesCroissant,
+StarCrazy,GFT,https://starcrazy.com,IoTeX,Gaming,StarCrazyGame,
+Kommunitas,KOM,https://kommunitas.net,Polygon,Launchpad,Kommunitas1,https://67362912-files.gitbook.io/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mcc99YHj6X7apRGJDII%2F-MgGmu57PGs3UkrB2GsG%2F-MgGoyNwBZNhWmBNpIi0%2FKommunitas%20Staking%20Contract%20Audit%20Report.pdf?alt=media&token=6325c456-fb79-4298-81d8-14c924b57cb2
+X2Y2,X2Y2,https://x2y2.io,Ethereum,Staking,the_x2y2,
+Polaris Finance,POLAR,https://polarisfinance.io,Aurora,Algo-Stables,PolarisFinance_,
+Peel Defi,PEEL,https://peeldefi.com/,Binance,Algo-Stables,PeelDefi,
