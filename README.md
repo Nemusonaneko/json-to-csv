@@ -1,5 +1,5 @@
 # json-to-csv
-Exports DefiLlama API response to CSV for zacharyroth
+Exports DefiLlama API response to CSV for frens
 
 Use node.js
 
